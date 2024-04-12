@@ -2,7 +2,7 @@
 Welcome to the Car Price Prediction App! This web application predicts the price of used cars based on various features such as brand, model, year, mileage, and condition. The app empowers users to make informed decisions when buying or selling used cars by providing reliable price estimates based on data-driven insights.
 
 # Overview
-The Car Price Prediction App is a user-friendly tool built using Streamlit, a Python library for creating interactive web applications. It leverages a machine learning model trained on historical car data (2000 - 2024) scraped from a Nigerian car dealership website, Car45.com, to provide accurate price estimates.
+The Car Price Prediction App is a user-friendly tool built using Streamlit, a Python library for creating interactive web applications. It leverages a machine learning model trained on historical car data (2000 - 2024) scraped from a Nigerian car dealership website, Car45.com to provide accurate price estimates.
 
 # Features
 Predict Car Price: Input the car's brand, model, condition, year, and mileage to get an instant price prediction.  
