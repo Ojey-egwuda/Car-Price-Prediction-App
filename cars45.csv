@@ -1,0 +1,1925 @@
+Car_Brand,Car_Model,Year,Car_Condition,Mileage,Price
+Toyota,Corolla,2010,Nigerian Used,145695,7650000
+Ford,Edge,2011,Foreign Used,122250,10125000
+Honda,Accord,2010,Nigerian Used,126040,4500000
+Mercedes-Benz,C 280,2008,Nigerian Used,380085,6750000
+Toyota,Corolla,2007,Nigerian Used,299999,3600000
+Mazda,CX-9,2007,Nigerian Used,163995,6525000
+Toyota,Camry,2015,Nigerian Used,131830,12375000
+Toyota,Highlander,2004,Nigerian Used,352150,3375000
+Toyota,RAV4,2008,Nigerian Used,182463,4500000
+Toyota,Camry,2007,Nigerian Used,150051,5512500
+Infiniti,FX35,2004,Nigerian Used,209324,2250000
+Toyota,Hiace,2012,Foreign Used,90411,20677500
+Nissan,Altima,2008,Nigerian Used,123008,2812500
+Honda,Accord,2005,Nigerian Used,293316,1417500
+Toyota,Corolla,2008,Nigerian Used,267639,4162500
+Toyota,Hiace,2012,Foreign Used,70484,20677500
+Acura,MDX,2016,Nigerian Used,101562,17437500
+Land Rover,LR2,2006,Foreign Used,195655,11812500
+Honda,Pilot,2010,Foreign Used,161775,8831250
+Hyundai,Sonata,2015,Nigerian Used,251057,10125000
+Toyota,RAV4,2001,Nigerian Used,90782,3037500
+Toyota,Sienna,2007,Foreign Used,77000,8437500
+Toyota,RAV4,2006,Nigerian Used,104254,5850000
+Toyota,Camry,2006,Nigerian Used,236867,3712500
+Mercedes-Benz,R-Class,2006,Nigerian Used,336955,4500000
+Toyota,Camry,2009,Nigerian Used,219827,3937500
+Toyota,Corolla,2017,Foreign Used,132036,17437500
+Lexus,ES 350,2009,Nigerian Used,268938,7875000
+Peugeot,207 Sport,2008,Nigerian Used,78356,7312500
+Toyota,Avensis,2012,Nigerian Used,153025,3375000
+Mercedes-Benz,GLE 350,2016,Nigerian Used,185424,24300000
+Toyota,Camry,2007,Nigerian Used,238169,4950000
+Toyota,Venza,2010,Nigerian Used,86367,9225000
+Toyota,Corolla,2010,Nigerian Used,240829,6750000
+Honda,Accord,2008,Nigerian Used,201896,4500000
+Mercedes-Benz,Sprinter,2019,Foreign Used,184107,97875000
+Toyota,Matrix,2005,Nigerian Used,144750,4500000
+Pontiac,Vibe,2008,Nigerian Used,321087,5625000
+Honda,Accord,2004,Nigerian Used,131473,1743750
+Mercedes-Benz,E 350,2011,Nigerian Used,209804,7650000
+Toyota,Venza,2012,Nigerian Used,85282,9225000
+Toyota,Corolla,2005,Nigerian Used,204997,2835000
+Toyota,Land Cruiser Prado,2013,Nigerian Used,100221,24750000
+Chevrolet,Impala,2007,Nigerian Used,278950,3375000
+Ford,Edge SE,2007,Nigerian Used,326575,6750000
+Honda,Accord,2008,Nigerian Used,205684,2925000
+Mercedes-Benz,C 300,2009,Nigerian Used,232010,7312500
+Nissan,Murano,2003,Nigerian Used,106934,2081250
+Toyota,RAV4,2008,Foreign Used,123948,8100000
+Toyota,Tacoma,2017,Foreign Used,128386,29250000
+Toyota,Camry,2002,Nigerian Used,159437,2025000
+Nissan,Xterra,2001,Nigerian Used,203654,3937500
+Kia,Soul,2015,Nigerian Used,61310,5625000
+Mercedes-Benz,GLK 350,2013,Nigerian Used,153604,15750000
+Toyota,Corolla,2009,Nigerian Used,236762,5118750
+Lexus,GS 300,2006,Nigerian Used,148105,4590000
+Lexus,ES 330,2005,Nigerian Used,191973,3090937
+Ford,Edge,2008,Nigerian Used,196044,5062500
+Acura,ZDX,2010,Nigerian Used,9999,10125000
+Toyota,RAV4,2006,Nigerian Used,269410,5625000
+Nissan,Almera,2014,Nigerian Used,106743,4500000
+Kia,Cerato,2013,Nigerian Used,131807,3262500
+Lexus,GX 470,2004,Nigerian Used,138454,4837500
+Lexus,RX 350,2017,Foreign Used,84064,50625000
+Toyota,RAV4,2010,Nigerian Used,403719,6240000
+Honda,Accord,2006,Nigerian Used,365928,2250000
+Toyota,Sienna,2006,Nigerian Used,442496,3150000
+Hyundai,Ix35,2012,Nigerian Used,121223,5460000
+Ford,Escape,2014,Nigerian Used,56061,5208000
+Mazda,CX-7,2009,Nigerian Used,192501,3990000
+Lincoln,MKX,2008,Nigerian Used,283622,5062500
+Ford,Edge,2008,Nigerian Used,194229,2898000
+Honda,Civic,2008,Nigerian Used,237971,2226000
+Toyota,Highlander,2005,Nigerian Used,207540,4410000
+Ford,Focus,2003,Nigerian Used,209567,1687500
+Honda,Accord,2008,Nigerian Used,211893,3536000
+Lexus,RX 350,2007,Nigerian Used,178385,9360000
+Toyota,Avensis,2011,Nigerian Used,101571,5062500
+Honda,Pilot,2006,Nigerian Used,257407,2205000
+Toyota,Camry,2015,Nigerian Used,222151,10920000
+Toyota,Camry,2014,Nigerian Used,141036,8325000
+Toyota,Camry,2007,Nigerian Used,364148,4680000
+Honda,Element,2007,Nigerian Used,359997,2205000
+Lexus,ES 330,2009,Nigerian Used,141054,5850000
+Honda,Accord,2008,Nigerian Used,30416,3375000
+Honda,Odyssey,2006,Nigerian Used,352870,3150000
+Honda,Accord,2008,Nigerian Used,151841,4275000
+Toyota,Camry,2003,Nigerian Used,261902,2016000
+Honda,Insight EX,2010,Foreign Used,60529,9562500
+Toyota,Highlander,2003,Nigerian Used,230301,2756250
+Honda,Accord,2003,Nigerian Used,481080,2250000
+Volkswagen,Passat,2012,Nigerian Used,190869,3360000
+Toyota,Camry,2005,Nigerian Used,273547,2700000
+Mercedes-Benz,E 350,2010,Nigerian Used,75365,9000000
+Toyota,RAV4,2009,Nigerian Used,97331,7280000
+Toyota,Sienna,2004,Nigerian Used,136330,5720000
+Toyota,Sienna,2004,Nigerian Used,342874,3885000
+Toyota,Corolla,2009,Nigerian Used,187580,5200000
+Peugeot,407,2008,Nigerian Used,821055,2250000
+Honda,Pilot,2003,Nigerian Used,413247,3037500
+Land Rover,LR3,2005,Foreign Used,222668,4500000
+Toyota,Corolla,2010,Nigerian Used,163457,5062500
+Toyota,Highlander,2008,Nigerian Used,180791,7800000
+Mitsubishi,Outlander,2012,Foreign Used,16471,10710000
+Peugeot,308,2008,Nigerian Used,245215,5250000
+Suzuki,XL-7,2002,Nigerian Used,359726,3375000
+Hyundai,Tucson,2018,Nigerian Used,16685,17437500
+Toyota,Sequoia,2005,Nigerian Used,24724,8840000
+Toyota,Corolla,2013,Nigerian Used,282250,4725000
+Acura,MDX,2010,Foreign Used,102853,10350000
+Lexus,RX 350,2010,Foreign Used,162855,17325000
+Honda,Accord,2006,Nigerian Used,113359,1800000
+Mercedes-Benz,GL 450 4MATIC,2007,Nigerian Used,236220,5062500
+Chevrolet,Lacetti,2009,Nigerian Used,145456,3675000
+Toyota,Corolla,2008,Nigerian Used,338164,8437500
+Mercedes-Benz,ML 350 4MATIC,2006,Nigerian Used,113984,3885000
+Lexus,ES 300,2000,Nigerian Used,117927,2100000
+Toyota,Sienna,2002,Nigerian Used,180657,2475000
+BMW,5 Series,2006,Nigerian Used,222899,2625000
+Toyota,RAV4,2012,Nigerian Used,117706,7800000
+Ford,Focus,2012,Foreign Used,142569,6552000
+Lexus,IS 250,2002,Nigerian Used,155054,3375000
+Honda,Civic,2008,Nigerian Used,277121,2362500
+Toyota,Avalon,2009,Nigerian Used,204981,2730000
+Toyota,Camry,2003,Nigerian Used,202096,3744000
+Toyota,Corolla,2009,Nigerian Used,301237,2520000
+Honda,Civic,2007,Nigerian Used,117469,2700000
+Ford,Expedition,2006,Nigerian Used,259734,4725000
+Toyota,4-Runner,2005,Nigerian Used,199803,3420000
+Honda,Accord,2008,Nigerian Used,458687,2771998
+Volkswagen,Jetta,2010,Nigerian Used,236226,2475000
+Toyota,RAV4,2013,Foreign Used,115623,17680000
+Volkswagen,Passat,2016,Foreign Used,150912,10500000
+Mercedes-Benz,ML 350,2004,Nigerian Used,151524,2478000
+Toyota,Sienna,2011,Nigerian Used,190661,20250000
+Mercedes-Benz,E 350,2013,Nigerian Used,113827,11960000
+Toyota,Yaris,2004,Foreign Used,98483,2940000
+Ford,Explorer,2013,Foreign Used,195514,11156250
+Toyota,Sienna,2007,Nigerian Used,215083,4368000
+Honda,Accord,2015,Foreign Used,105960,14062500
+Genesis,G80,2017,Foreign Used,103185,16875000
+Toyota,Camry,2010,Nigerian Used,127050,6187500
+Honda,Accord,2015,Nigerian Used,67450,8505000
+Lexus,GX 460,2011,Nigerian Used,129460,22500000
+Toyota,Highlander,2003,Nigerian Used,189408,3952000
+Toyota,Camry,2005,Nigerian Used,178055,2100000
+Toyota,Solara,2008,Nigerian Used,185481,2625000
+Toyota,Highlander,2002,Nigerian Used,446287,3108000
+Nissan,Altima,2005,Nigerian Used,294364,1680000
+Toyota,RAV4,2016,Nigerian Used,152850,26000000
+Toyota,Camry,2003,Nigerian Used,426812,3640000
+Volkswagen,Golf,2005,Foreign Used,268122,3937500
+Toyota,RAV4,2006,Nigerian Used,167672,7312500
+Lexus,RX 330,2004,Nigerian Used,100945,7312500
+Honda,Odyssey,2007,Nigerian Used,154195,2226000
+Mercedes-Benz,E 500,2004,Nigerian Used,345493,2625000
+BMW,528i,2012,Foreign Used,297346,14625000
+Toyota,RAV4,2008,Nigerian Used,190893,3622500
+Toyota,Highlander,2012,Nigerian Used,170031,10350000
+Toyota,Camry,2003,Nigerian Used,227519,3937500
+Land Rover,Range Rover Vogue,2014,Nigerian Used,129007,52000000
+Toyota,Corolla,2008,Nigerian Used,90000,3990000
+Toyota,Highlander,2012,Nigerian Used,94527,7875000
+Hyundai,Accent,2014,Nigerian Used,155722,2625000
+Mercedes-Benz,C 250,2013,Nigerian Used,101589,9000000
+Hyundai,Grandeur,2012,Nigerian Used,272681,9000000
+Toyota,Corolla,2007,Nigerian Used,257602,4500000
+Hyundai,Elantra,2020,Nigerian Used,47245,17850000
+Lexus,RX 350,2010,Foreign Used,143291,15480000
+Toyota,Camry,2007,Nigerian Used,256894,4680000
+Toyota,Highlander,2006,Foreign Used,148094,7875000
+Honda,Civic,2009,Nigerian Used,114514,2808000
+Toyota,Sienna LE,2002,Nigerian Used,145021,3120000
+Toyota,Camry,2008,Nigerian Used,283026,3675000
+Lexus,LS 460,2010,Nigerian Used,49435,7927500
+Mercedes-Benz,C 350,2009,Nigerian Used,277739,9000000
+GAC,GS4,2018,Nigerian Used,60076,10125000
+Subaru,Tribeca,2006,Nigerian Used,303635,3675000
+Mercedes-Benz,E 350,2010,Nigerian Used,20613,10400000
+Toyota,Sienna,2010,Foreign Used,392307,9000000
+Mercedes-Benz,A 180,2010,Nigerian Used,169250,4500000
+Honda,CR-V,2012,Nigerian Used,161616,7176000
+Honda,CR-V,2004,Nigerian Used,344396,2808000
+Nissan,Altima,2004,Nigerian Used,115051,1575000
+Land Rover,Range Rover,2014,Nigerian Used,51762,36750000
+Toyota,Camry,2012,Foreign Used,257460,8694436
+Honda,Accord,2008,Nigerian Used,76531,2730000
+BMW,328i,2010,Nigerian Used,332170,6300000
+Mazda,CX-9,2009,Nigerian Used,238935,4725000
+Lexus,GS 460,2008,Nigerian Used,164683,3825000
+Mazda,MPV,2001,Nigerian Used,245755,1995000
+Subaru,Legacy,2012,Foreign Used,153214,6300000
+Hyundai,Elantra,2008,Nigerian Used,135076,2415000
+Land Rover,Range Rover,2014,Nigerian Used,106194,29400000
+Ford,Ranger,2014,Nigerian Used,342113,9975000
+Toyota,Camry,2015,Foreign Used,150647,14976000
+Toyota,4-Runner,2005,Nigerian Used,327190,3324300
+Mercedes-Benz,GL 550,2009,Foreign Used,147610,9450000
+Hyundai,Veloster,2015,Foreign Used,96624,8715000
+Nissan,Navara,2002,Nigerian Used,31010,8400000
+Toyota,Camry,2007,Nigerian Used,200366,3675000
+Volkswagen,Comfort Coupe,2013,Nigerian Used,438183,5250000
+Mercedes-Benz,CLS 550,2012,Nigerian Used,158654,16800000
+Mitsubishi,Outlander,2010,Nigerian Used,233008,5250000
+Acura,MDX,2010,Nigerian Used,238561,9562500
+Ford,Edge,2011,Nigerian Used,297380,6240000
+Toyota,Yaris,2006,Nigerian Used,300950,3150000
+Toyota,Matrix,2006,Nigerian Used,143766,2835000
+Lexus,RX 330,2004,Nigerian Used,38070,5460000
+Mitsubishi,L200,2005,Nigerian Used,80853,7875000
+Mercedes-Benz,C 300,2011,Nigerian Used,160934,7280000
+Scion,xB,2008,Foreign Used,161605,3465000
+Ford,Explorer,2007,Nigerian Used,325244,2310000
+Volvo,S80,2008,Nigerian Used,248218,1680000
+Kia,Sorento,2006,Nigerian Used,266975,2184000
+Volkswagen,Passat,2006,Nigerian Used,130049,2415000
+Toyota,Camry,2008,Nigerian Used,119680,4725000
+Honda,Accord,2007,Nigerian Used,285901,2600000
+Acura,MDX,2007,Nigerian Used,81155,3307500
+Toyota,Sienna,2008,Foreign Used,251180,7800000
+Mercedes-Benz,E 350,2013,Nigerian Used,158038,8925000
+Lexus,GX 460,2010,Nigerian Used,104542,17850000
+Toyota,Highlander,2008,Nigerian Used,404343,10920000
+Honda,Accord,2014,Nigerian Used,275477,8320000
+Nissan,Murano,2009,Nigerian Used,175678,2625000
+Acura,TLX,2015,Foreign Used,152341,14700000
+Nissan,Titan,2004,Nigerian Used,167001,4200000
+Lexus,ES 300,2003,Nigerian Used,130597,2835000
+Toyota,C-HR,2018,Foreign Used,75842,28080000
+Mercedes-Benz,GL 450,2013,Nigerian Used,132018,27040000
+Chevrolet,Equinox,2008,Nigerian Used,75618,2625000
+Mercedes-Benz,ML 350 4MATIC,2009,Foreign Used,167516,12168000
+Toyota,Sienna,2006,Nigerian Used,131025,3675000
+Toyota,Corolla,2004,Nigerian Used,179357,3328000
+Kia,Cerato,2007,Nigerian Used,185057,1575000
+Toyota,4-Runner,2007,Nigerian Used,111884,5720000
+Honda,Pilot,2009,Nigerian Used,114731,6240000
+Toyota,Sienna,2005,Nigerian Used,142592,3320100
+Honda,Accord,2008,Nigerian Used,275498,3328000
+Audi,A6,2007,Foreign Used,10006,4200000
+Honda,Accord,2009,Nigerian Used,82101,3640000
+Honda,CR-V,2013,Nigerian Used,56647,6825000
+Acura,TL,2013,Nigerian Used,225614,4725000
+Land Rover,Range Rover Sport,2016,Nigerian Used,90440,31500000
+Toyota,Highlander,2012,Foreign Used,135232,16640000
+Lexus,ES 350,2007,Nigerian Used,122938,6760000
+Mitsubishi,Montero,2002,Nigerian Used,284458,1627500
+Toyota,Highlander,2002,Nigerian Used,236734,4160000
+Toyota,Camry,2012,Foreign Used,251956,13000000
+Ford,Fusion,2010,Nigerian Used,167134,3150000
+Lexus,RX 350,2011,Nigerian Used,81509,13520000
+Hyundai,Sonata,2014,Foreign Used,165094,7350000
+Toyota,Corolla,2003,Nigerian Used,157380,5200000
+Toyota,Highlander,2002,Nigerian Used,174144,3640000
+Toyota,4-Runner,2004,Nigerian Used,277813,4160000
+Honda,Pilot,2003,Nigerian Used,369937,1890000
+Toyota,Camry,2008,Nigerian Used,143197,3885000
+Honda,Accord,2006,Nigerian Used,87312,2808000
+Lexus,ES 350,2015,Nigerian Used,140027,13125000
+Ford,Transit,2010,Nigerian Used,373415,7875000
+Toyota,Camry,2004,Nigerian Used,521781,3120000
+Hyundai,Santa Fe,2014,Nigerian Used,58502,6300000
+Toyota,Matrix,2005,Nigerian Used,113306,2940000
+Toyota,Corolla,2007,Nigerian Used,304157,2625000
+Toyota,Corolla,2017,Nigerian Used,85145,9975000
+Toyota,RAV4,2007,Foreign Used,117092,8840000
+Lexus,RX 330,2006,Nigerian Used,215997,7592000
+Mazda,CX-9,2007,Foreign Used,110566,5145000
+Toyota,Highlander,2008,Nigerian Used,145287,7800000
+Mercedes-Benz,GLK 350 4MATIC,2012,Nigerian Used,99790,9103500
+Mercedes-Benz,GLA 250,2017,Nigerian Used,166558,21000000
+Toyota,Camry,2006,Nigerian Used,375162,2205000
+Ford,Explorer,2007,Nigerian Used,116433,4680000
+Acura,TSX,2006,Nigerian Used,360662,3780000
+Chrysler,Town & Country,2008,Nigerian Used,342222,4725000
+Ford,Escape,2013,Nigerian Used,241775,5616000
+Toyota,Sienna,2015,Foreign Used,122892,19760000
+Honda,Crosstour,2010,Nigerian Used,191764,4200000
+Honda,Accord,2010,Nigerian Used,206601,3360000
+Toyota,Corolla,2010,Nigerian Used,188750,3150000
+Hyundai,Santa Fe,2014,Nigerian Used,94237,9450000
+Kia,Rio,2006,Nigerian Used,263503,1575000
+Hyundai,Tucson,2017,Nigerian Used,110935,14175000
+Honda,Civic,2007,Nigerian Used,368971,2520000
+Toyota,Camry,2003,Nigerian Used,220436,2625000
+BMW,525i,2012,Foreign Used,141296,15750000
+Lexus,GX 460,2010,Nigerian Used,104426,24960000
+Infiniti,FX35,2009,Nigerian Used,204254,4200000
+Volvo,XC90,2004,Nigerian Used,100596,3465000
+Lexus,GX 460,2019,Nigerian Used,137703,56700000
+Lexus,GX 470,2005,Nigerian Used,189583,7280000
+Ford,Focus,2003,Nigerian Used,234373,1575000
+Toyota,4-Runner,2005,Nigerian Used,199303,3675000
+Toyota,Camry,2002,Nigerian Used,224934,2704000
+Honda,Odyssey,2004,Nigerian Used,450375,2080000
+Nissan,X-Trail,2015,Nigerian Used,111124,6300000
+Lexus,RX 350,2010,Nigerian Used,251766,10500000
+Toyota,Camry,2011,Nigerian Used,236253,4935000
+Toyota,Camry,2015,Nigerian Used,182813,11440000
+Nissan,Altima,2007,Nigerian Used,246417,4200000
+Mercedes-Benz,GLE 350 4 MATIC,2016,Nigerian Used,52704,31200000
+Mercedes-Benz,ML 350,2012,Nigerian Used,234219,17160000
+Toyota,Venza,2009,Foreign Used,95834,12075000
+Hyundai,Azera,2014,Nigerian Used,45278,6300000
+Toyota,Camry,2002,Nigerian Used,344316,2496000
+Hyundai,Sonata,2013,Foreign Used,257408,12480000
+Toyota,Corolla,2003,Nigerian Used,102368,2940000
+Toyota,Hilux,2007,Nigerian Used,255614,8840000
+Toyota,Sienna,2016,Foreign Used,225159,20800000
+Lexus,RX 350,2009,Nigerian Used,150212,6300000
+Nissan,Almera,2003,Nigerian Used,158786,1680000
+Ford,Mondeo,2005,Nigerian Used,129167,3675000
+Lexus,GS 350,2007,Nigerian Used,331105,4725000
+Honda,Accord,2008,Nigerian Used,81845,3432000
+Toyota,Highlander Limited,2006,Nigerian Used,150413,4095000
+Mazda,Premacy,2000,Nigerian Used,181391,2100000
+Toyota,Corolla,2007,Nigerian Used,88517,4992000
+Lexus,RX 350,2007,Nigerian Used,145839,7280000
+Toyota,4-Runner,2007,Nigerian Used,34065,5824000
+Cadillac,SRX,2008,Nigerian Used,168321,3675000
+Lexus,GS 300,2003,Foreign Used,112294,2625000
+Lexus,ES 350,2008,Nigerian Used,101263,6760000
+Toyota,Sienna,2006,Nigerian Used,524609,2940000
+Mercedes-Benz,C 230,2006,Nigerian Used,296160,2226000
+Toyota,Corolla,2011,Nigerian Used,275687,6760000
+Acura,MDX,2008,Nigerian Used,304670,6448000
+Toyota,4-Runner,2012,Nigerian Used,130242,12810000
+Lexus,RX 350,2010,Foreign Used,125207,14700000
+Infiniti,FX35,2005,Foreign Used,127925,2835000
+Ford,E-150,2007,Foreign Used,245121,6825000
+Acura,MDX,2005,Nigerian Used,243366,2058000
+Toyota,Highlander,2003,Nigerian Used,316465,2940000
+Toyota,Camry,2006,Nigerian Used,100113,6240000
+Acura,ZDX,2010,Nigerian Used,211851,5273625
+Toyota,Highlander,2008,Foreign Used,390562,7497000
+Toyota,Camry,2003,Nigerian Used,220309,3120000
+Toyota,Highlander,2005,Nigerian Used,370758,3360000
+Lexus,GS 350,2008,Nigerian Used,164268,4908750
+Lexus,GS 350,2007,Nigerian Used,198832,3780000
+Lexus,ES 350,2007,Nigerian Used,205123,7800000
+Mercedes-Benz,GL 450 4MATIC,2012,Nigerian Used,134101,8400000
+Hyundai,Elantra,2007,Nigerian Used,240961,3045000
+Lexus,GX 460,2010,Nigerian Used,89038,15540000
+Toyota,Yaris,2008,Nigerian Used,193785,2730000
+Lexus,RX 300,2000,Nigerian Used,25739,2625000
+Kia,Optima,2007,Nigerian Used,78659,2625000
+Lexus,LS 460,2007,Nigerian Used,259245,4347000
+Toyota,Corolla,2013,Foreign Used,133250,8840000
+Honda,Civic,2007,Nigerian Used,414377,2144332
+Nissan,Pathfinder,2006,Nigerian Used,258348,3360000
+Honda,Accord,2008,Nigerian Used,176866,2520000
+Toyota,Camry,2005,Nigerian Used,162944,2912000
+Toyota,Sienna,2011,Nigerian Used,241798,7800000
+Toyota,Corolla,2010,Nigerian Used,114747,4395300
+Toyota,Avalon,2009,Nigerian Used,148001,3640000
+Volkswagen,Polo,2001,Nigerian Used,199207,1575000
+Lexus,RX 350,2010,Nigerian Used,87987,8925000
+Toyota,Highlander,2017,Nigerian Used,151213,22880000
+Honda,Accord,2009,Nigerian Used,182669,3034500
+Mercedes-Benz,C 180,2001,Nigerian Used,262828,3675000
+Honda,Accord,2005,Nigerian Used,278901,2080000
+Acura,RL,2005,Nigerian Used,136340,2835000
+Mercedes-Benz,ML 350,2004,Nigerian Used,336764,3536000
+Ford,Focus,2005,Nigerian Used,336495,2100000
+Honda,Accord,2013,Foreign Used,253179,10088000
+Toyota,Avalon,2002,Nigerian Used,244296,1764000
+Pontiac,Vibe,2007,Nigerian Used,233513,3675000
+Toyota,Sienna,2015,Foreign Used,165351,14280000
+Honda,Accord,2004,Nigerian Used,431517,1820000
+Infiniti,QX56,2004,Nigerian Used,120618,6300000
+Toyota,Corolla,2006,Nigerian Used,206464,3744000
+Toyota,Corolla,2015,Nigerian Used,127416,8840000
+Toyota,Highlander,2005,Nigerian Used,186180,3675000
+Mercedes-Benz,GL 450 4MATIC,2007,Nigerian Used,176937,5040000
+Lexus,ES 300,2002,Nigerian Used,200853,2310000
+Cadillac,SRX,2006,Foreign Used,274085,4200000
+Toyota,Sienna,2006,Nigerian Used,457298,4368000
+Toyota,Camry,2009,Nigerian Used,271002,5512000
+Toyota,Tacoma,2017,Foreign Used,129881,28080000
+Mercedes-Benz,ML 350,2006,Nigerian Used,170723,4462500
+Lexus,ES 330,2005,Nigerian Used,389415,3360000
+Toyota,Sienna,2001,Nigerian Used,137255,2704000
+Acura,TL,2006,Nigerian Used,156930,2625000
+Toyota,Land Cruiser,2014,Nigerian Used,68283,38480000
+Lexus,RX 350,2008,Nigerian Used,104228,5565000
+Toyota,Camry,2008,Nigerian Used,254015,3675000
+Hyundai,Accent,2012,Nigerian Used,193889,1420000
+Mercedes-Benz,Sprinter,2012,Foreign Used,264458,11865000
+Ford,Explorer,2016,Nigerian Used,207056,10500000
+Mercedes-Benz,C 300,2008,Nigerian Used,97848,6032000
+Pontiac,Torrent,2009,Nigerian Used,206739,3675000
+Toyota,Avensis,2005,Nigerian Used,191459,2016000
+Mercedes-Benz,GLE 350 4 MATIC,2017,Nigerian Used,50797,30160000
+Toyota,Corolla,2010,Nigerian Used,171740,5512000
+Mercedes-Benz,C 180,2001,Nigerian Used,233925,1365000
+Ford,Focus,2015,Nigerian Used,118196,3150000
+Toyota,Highlander,2008,Nigerian Used,175203,5250000
+Mercedes-Benz,GLK 350 4MATIC,2014,Foreign Used,181541,20280000
+Hyundai,Santa Fe,2008,Nigerian Used,144641,4316000
+Honda,Crosstour,2010,Nigerian Used,124694,4815000
+Toyota,Corolla,2004,Nigerian Used,231205,3224000
+Kia,Cerato,2010,Nigerian Used,275243,2415000
+Toyota,Sienna,2009,Nigerian Used,292341,3990000
+Lexus,ES 330,2005,Nigerian Used,232490,3832500
+Toyota,Corolla,2009,Nigerian Used,199725,4305000
+Nissan,Murano,2008,Foreign Used,180916,2415000
+Nissan,Pathfinder,2005,Nigerian Used,174491,1995000
+Honda,Pilot,2009,Foreign Used,377515,8528000
+Kia,Rio,2013,Nigerian Used,96548,2625000
+Toyota,Camry,2005,Nigerian Used,193533,2835000
+Toyota,Sienna,2004,Nigerian Used,207532,3990000
+Ford,Edge,2007,Foreign Used,310572,4730250
+BMW,328i,2008,Nigerian Used,277987,5250000
+Honda,Crosstour,2010,Nigerian Used,93676,2940000
+Toyota,Corolla,2000,Nigerian Used,218129,2808000
+Toyota,Avensis,2008,Nigerian Used,101613,3360000
+Land Rover,Range Rover Sport,2011,Nigerian Used,159736,10608000
+Hyundai,Creta,2016,Nigerian Used,47912,11550000
+Audi,A4,2006,Nigerian Used,180337,3675000
+Toyota,Avalon,2015,Foreign Used,69468,14700000
+Ford,Focus,2012,Nigerian Used,103615,4095000
+Mercedes-Benz,C 230,2007,Nigerian Used,260655,2677500
+Mazda,MPV,2005,Foreign Used,206905,4725000
+Honda,Pilot,2004,Nigerian Used,184941,3848000
+Lexus,ES 330,2004,Nigerian Used,491960,3465000
+Mercedes-Benz,E 320,2003,Nigerian Used,150893,2100000
+Toyota,Corolla,2013,Foreign Used,827337,8925000
+Lexus,RX 300,2000,Nigerian Used,222997,2625000
+Toyota,Highlander,2005,Foreign Used,422957,6300000
+Mercedes-Benz,ML 350 4MATIC,2013,Nigerian Used,100659,14101500
+Toyota,Camry,2011,Foreign Used,178404,7904000
+Nissan,Armada,2011,Foreign Used,226062,6825000
+Honda,Accord,2005,Nigerian Used,206445,2496000
+Toyota,Corolla,2009,Nigerian Used,128980,3150000
+Lexus,RX 330,2004,Nigerian Used,389399,3990000
+Lexus,RX 300,2000,Nigerian Used,419818,2310000
+Honda,Accord,2007,Nigerian Used,359745,2600000
+Toyota,Camry,2009,Nigerian Used,110781,3675000
+Toyota,Avensis,2006,Nigerian Used,201996,2808000
+Mercedes-Benz,ML 320,2000,Nigerian Used,171887,2100000
+Mercedes-Benz,GLK 350 4MATIC,2011,Nigerian Used,129445,9360000
+Toyota,Tacoma,2002,Nigerian Used,282557,6825000
+Nissan,Murano,2013,Nigerian Used,228257,6825000
+Ford,Edge,2012,Nigerian Used,204954,4462500
+Toyota,Sienna,2008,Nigerian Used,83963,4680000
+Lexus,RX 350,2008,Nigerian Used,153431,6760000
+Lexus,GX 460,2010,Nigerian Used,282072,24960000
+Peugeot,307,2008,Nigerian Used,103225,2071680
+Scion,iA Base,2016,Nigerian Used,363725,8925000
+Peugeot,406,2004,Nigerian Used,380274,3536000
+Toyota,Highlander,2008,Nigerian Used,212880,6825000
+Toyota,Corolla,2004,Nigerian Used,160932,3120000
+Toyota,Corolla,2009,Nigerian Used,269782,2129400
+Toyota,Corolla,2004,Nigerian Used,78338,2562000
+Mercedes-Benz,E 350,2008,Nigerian Used,350783,3570000
+Hyundai,Sonata,2006,Nigerian Used,363715,2205000
+Mercedes-Benz,GLK 350 4MATIC,2011,Nigerian Used,56895,9360000
+Honda,Odyssey,2000,Nigerian Used,317957,3097500
+Toyota,Camry,2015,Nigerian Used,115920,10192000
+Land Rover,Range Rover Sport,2008,Nigerian Used,85900,5250000
+Toyota,Camry,2007,Nigerian Used,172097,4095000
+Volvo,S80,2001,Nigerian Used,368702,2625000
+Toyota,Sienna LE,2004,Nigerian Used,187226,4680000
+Lexus,RX 300,2002,Nigerian Used,243493,3640000
+Toyota,Highlander,2012,Nigerian Used,322682,9360000
+Honda,Pilot,2006,Nigerian Used,188118,2625000
+Lexus,GX 470,2009,Nigerian Used,194590,14040000
+Land Rover,Range Rover,2014,Foreign Used,84458,41600000
+Honda,Accord,2018,Foreign Used,163404,16800000
+Nissan,Sentra,2013,Foreign Used,128700,6972000
+Nissan,Altima,2008,Nigerian Used,233561,2600000
+Acura,MDX,2007,Nigerian Used,325547,3990000
+Peugeot,307,2006,Nigerian Used,230308,3465000
+Hyundai,Sonata,2013,Nigerian Used,271962,4200000
+Ford,Transit,2000,Nigerian Used,287109,5775000
+Honda,Odyssey,2005,Nigerian Used,192723,3675000
+Toyota,Corolla,2006,Nigerian Used,281182,3640000
+Volkswagen,Golf,2004,Nigerian Used,16481,1890000
+Toyota,Highlander,2008,Nigerian Used,364040,8112000
+Acura,TL,2010,Nigerian Used,200000,3444000
+Ford,Focus,2010,Nigerian Used,181284,1260000
+Toyota,Camry,2006,Nigerian Used,425237,2730000
+Toyota,Camry,2014,Foreign Used,89146,10290000
+Lexus,RX 350,2007,Nigerian Used,75942,6300000
+Nissan,Sunny,2006,Nigerian Used,167425,1312500
+Hyundai,Sonata,2012,Nigerian Used,97329,8320000
+Toyota,Camry,2008,Nigerian Used,241719,2625000
+Hyundai,Genesis,2010,Foreign Used,200607,4200000
+Toyota,Sienna,2007,Nigerian Used,166854,6656000
+Honda,Pilot,2016,Nigerian Used,75267,14700000
+Honda,Pilot,2005,Nigerian Used,227890,3120000
+Toyota,Corolla,2004,Nigerian Used,346861,2730000
+Honda,Accord,2008,Nigerian Used,229556,3150000
+Mercedes-Benz,C 230,2007,Nigerian Used,90975,3045000
+Toyota,Highlander,2012,Foreign Used,143238,14560000
+Chevrolet,Orlando,2011,Nigerian Used,121472,1890000
+Toyota,Camry,2007,Nigerian Used,285793,4524000
+Nissan,Murano,2009,Nigerian Used,137122,3150000
+Toyota,Matrix,2005,Nigerian Used,24375,2940000
+Toyota,Highlander,2006,Nigerian Used,361234,3150000
+Lexus,RX 350,2010,Nigerian Used,134418,13520000
+Toyota,Sienna,2013,Foreign Used,200438,11550000
+Peugeot,206,2006,Foreign Used,284315,3885000
+Toyota,Camry,2009,Nigerian Used,320039,3990000
+Kia,Rio,2013,Nigerian Used,96729,2940000
+Toyota,Corolla,2007,Nigerian Used,264329,4368000
+Toyota,Camry,2007,Nigerian Used,212815,5200000
+Mercedes-Benz,GLK 350 4MATIC,2011,Nigerian Used,330431,7350000
+Hyundai,Ix35,2012,Nigerian Used,194215,5720000
+Lexus,RX 350,2007,Foreign Used,173698,10400000
+Nissan,Maxima,2006,Foreign Used,196535,3150000
+Mercedes-Benz,E 350,2012,Foreign Used,157858,14040000
+Toyota,Highlander,2005,Nigerian Used,249232,3675000
+Honda,Accord,2004,Nigerian Used,239196,1664000
+BMW,3 Series,2006,Nigerian Used,153958,2100000
+Toyota,Highlander Hybrid,2008,Nigerian Used,257698,4725000
+Volkswagen,Golf,2000,Nigerian Used,190058,3120000
+Volkswagen,Jetta,2007,Nigerian Used,306213,3328000
+MG,Magnett,2010,Nigerian Used,12630,7560000
+Toyota,Camry,2000,Nigerian Used,476503,1872000
+Land Rover,Range Rover Sport,2008,Nigerian Used,195615,4200000
+Honda,Pilot,2006,Nigerian Used,330344,3120000
+Chevrolet,Suburban,2010,Nigerian Used,256699,12600000
+Toyota,Camry,2002,Nigerian Used,344212,2288000
+Toyota,Corolla,2006,Foreign Used,226665,6240000
+Toyota,Highlander,2005,Nigerian Used,233874,7800000
+Lexus,ES 350,2015,Foreign Used,166928,12862500
+Acura,MDX,2004,Nigerian Used,398102,1365000
+Toyota,Sienna,2004,Nigerian Used,306278,4160000
+Land Rover,LR3,2008,Nigerian Used,98786,2646000
+Toyota,Corolla,2006,Nigerian Used,197382,3848000
+Toyota,Highlander Limited,2011,Nigerian Used,67690,9880000
+Honda,Odyssey,2024,Nigerian Used,330359,3675000
+Land Rover,Range Rover Sport,2006,Nigerian Used,248625,3255000
+Toyota,Avensis Verso,2004,Nigerian Used,341068,2625000
+Volkswagen,Caddy,2013,Nigerian Used,148104,8400000
+Toyota,Camry,2009,Nigerian Used,194886,3885000
+Peugeot,406,2005,Nigerian Used,217931,3120000
+Acura,MDX,2001,Nigerian Used,196447,1680000
+Toyota,Sienna,2011,Nigerian Used,141073,9360000
+Mercedes-Benz,C 63,2018,Foreign Used,18540,75600000
+Mercedes-Benz,ML 350,2005,Nigerian Used,313962,4108000
+Toyota,Corolla,2009,Nigerian Used,107063,4515000
+Toyota,Corolla,2007,Nigerian Used,285993,4316000
+Infiniti,QX56,2006,Nigerian Used,198673,4074000
+Toyota,Corolla,2004,Nigerian Used,192302,3120000
+Toyota,Camry,2008,Foreign Used,338031,6760000
+Toyota,Corolla,2008,Nigerian Used,125697,2940000
+Mercedes-Benz,GLE 53 AMG,2023,Nigerian Used,2438,147000000
+Honda,Civic,2009,Nigerian Used,175231,2940000
+Acura,MDX,2011,Nigerian Used,73829,8400000
+BMW,X6,2009,Nigerian Used,143863,9450000
+Toyota,Highlander,2005,Nigerian Used,386286,4368000
+Mercedes-Benz,ML 350,2013,Nigerian Used,163039,20800000
+Kia,Sedona,2002,Nigerian Used,119843,2730000
+Hyundai,Ix35,2011,Nigerian Used,114291,6825000
+Toyota,Sienna,2010,Foreign Used,287878,8840000
+Toyota,Sienna,2008,Nigerian Used,237429,4992000
+Toyota,Corolla,2010,Nigerian Used,229735,3990000
+Toyota,Camry,2007,Nigerian Used,200834,3885000
+Toyota,Corolla,2013,Nigerian Used,104588,6656000
+Toyota,Camry,2003,Nigerian Used,664485,2704000
+Honda,Accord,2010,Nigerian Used,159507,3640000
+Hyundai,Tucson,2015,Foreign Used,113992,14700000
+Mercedes-Benz,GL 550 4MATIC,2008,Nigerian Used,180619,8320000
+Mercedes-Benz,C 300,2008,Nigerian Used,177004,5720000
+Infiniti,FX35,2005,Nigerian Used,213054,4725000
+Hyundai,Santa Fe,2007,Nigerian Used,156744,2310000
+Toyota,Highlander,2008,Nigerian Used,174730,7280000
+Mercedes-Benz,GLK 350 AMG,2013,Nigerian Used,134185,13000000
+Toyota,Camry,2009,Foreign Used,158231,7280000
+Kia,Cerato,2013,Nigerian Used,163160,3202500
+Land Rover,Range Rover Sport,2011,Nigerian Used,139146,5512500
+Toyota,Highlander,2012,Nigerian Used,187673,9360000
+Honda,Pilot,2005,Nigerian Used,306202,3328000
+Lexus,ES 350,2010,Foreign Used,175231,8400000
+Toyota,Camry,2010,Nigerian Used,190823,3780000
+Mercedes-Benz,GLK 350,2013,Foreign Used,155115,15225000
+Honda,Accord,2005,Nigerian Used,356556,1508325
+Hyundai,Accent,2009,Nigerian Used,148622,2100000
+Mazda,3,2009,Nigerian Used,214252,3150000
+Toyota,Sienna,2005,Nigerian Used,250982,4680000
+Toyota,Highlander,2008,Foreign Used,104780,7875000
+Ford,E-250,2003,Nigerian Used,256132,2310000
+Toyota,Sienna,2011,Nigerian Used,78802,9880000
+Toyota,Highlander,2009,Nigerian Used,234195,7800000
+Infiniti,QX4,2002,Nigerian Used,182045,1785000
+Sinotruk,Howo,2022,Foreign Used,3692,52500000
+Toyota,Corolla,2008,Nigerian Used,300261,3528000
+Lexus,RX 350,2010,Nigerian Used,164778,15600000
+Lexus,RX 330,2006,Nigerian Used,301044,4851000
+Ford,Explorer,2006,Nigerian Used,333366,2625000
+Toyota,Sienna,2006,Nigerian Used,209942,4680000
+Toyota,Matrix,2003,Nigerian Used,388520,2625000
+Honda,Odyssey,2005,Nigerian Used,418936,2625000
+Toyota,Sienna,2004,Nigerian Used,326433,2730000
+Mitsubishi,Pajero,2010,Nigerian Used,183161,5250000
+Toyota,Camry,2007,Foreign Used,231091,6864000
+Mitsubishi,Lancer,2012,Nigerian Used,109905,1155000
+Peugeot,307,2008,Nigerian Used,126180,1890000
+Mercedes-Benz,GL 450,2012,Nigerian Used,243074,8925000
+Toyota,Matrix,2006,Nigerian Used,299999,2625000
+Kia,Optima,2007,Nigerian Used,200915,2625000
+Hyundai,Sonata,2009,Nigerian Used,138357,2751000
+Lexus,GS 350,2007,Foreign Used,179227,8320000
+Acura,MDX,2008,Nigerian Used,459601,4888000
+Toyota,Camry,2009,Nigerian Used,198662,3150000
+Toyota,Camry,2004,Nigerian Used,126057,3640000
+Lexus,GX 470,2014,Nigerian Used,145325,31720000
+Mercedes-Benz,C 300,2016,Foreign Used,235137,15750000
+Land Rover,Range Rover Sport,2013,Nigerian Used,132849,16800000
+Honda,Civic,2012,Foreign Used,133900,6720000
+Toyota,Corolla,2004,Foreign Used,235314,5200000
+Volkswagen,Routan,2011,Foreign Used,315536,6510000
+Nissan,Maxima,2001,Nigerian Used,108278,2100000
+Toyota,Matrix,2003,Nigerian Used,209989,2625000
+BMW,3 Series,2006,Nigerian Used,164124,3097500
+Hyundai,Sonata,2012,Foreign Used,3677,7800000
+Acura,MDX,2007,Nigerian Used,294510,7280000
+Kia,Sportage,2011,Nigerian Used,100943,5250000
+Ford,F-150,2005,Nigerian Used,291506,4725000
+Toyota,Corolla,2010,Foreign Used,102379,8008000
+Toyota,Camry,2017,Nigerian Used,120143,11440000
+Lexus,RX 330,2004,Nigerian Used,152347,7800000
+Toyota,Corolla,2007,Nigerian Used,407084,1785000
+Toyota,Highlander,2018,Foreign Used,147993,27300000
+Toyota,Camry,2003,Nigerian Used,176710,1942500
+Volkswagen,Touareg,2003,Nigerian Used,186048,5775000
+Hyundai,Santa Fe,2002,Nigerian Used,180571,2100000
+Mercedes-Benz,GLK 350,2010,Nigerian Used,180267,8925000
+BMW,535i,2010,Nigerian Used,164025,8400000
+Toyota,Highlander,2008,Nigerian Used,144182,7800000
+Nissan,Altima,2010,Foreign Used,202075,3885000
+Toyota,Highlander,2013,Nigerian Used,113847,9765000
+Mitsubishi,Montero,2003,Nigerian Used,218457,2415000
+Toyota,Matrix,2007,Nigerian Used,270516,3796000
+Ford,Explorer,2002,Nigerian Used,228996,3045000
+Toyota,Highlander Limited,2006,Nigerian Used,117702,4189500
+Ford,F-150,2014,Nigerian Used,167845,15750000
+Honda,Accord,2012,Nigerian Used,191234,4680000
+Chevrolet,Blazer,2019,Foreign Used,25300,57750000
+Toyota,Venza XLE,2013,Nigerian Used,69631,12480000
+Nissan,Frontier,2008,Nigerian Used,281689,3360000
+Toyota,RAV4,2013,Nigerian Used,130905,13728000
+Honda,Odyssey,2012,Nigerian Used,178261,4830000
+Porsche,Cayenne,2005,Foreign Used,314846,15225000
+Toyota,Highlander,2008,Nigerian Used,173010,6825000
+Toyota,4-Runner,2015,Nigerian Used,112080,17850000
+Toyota,Highlander Limited,2008,Nigerian Used,164620,8320000
+Honda,Accord,2008,Nigerian Used,188716,2940000
+Lexus,GS 350,2009,Nigerian Used,138261,5775000
+Mazda,MPV,2000,Nigerian Used,248903,2100000
+Mercedes-Benz,E 350,2011,Nigerian Used,87900,10400000
+Mercedes-Benz,GLC 300,2017,Foreign Used,86848,26250000
+Mazda,626,2008,Nigerian Used,215925,1680000
+Toyota,Avensis,2006,Nigerian Used,267647,2007600
+Nissan,X-Trail,2015,Nigerian Used,126423,11550000
+Toyota,4-Runner,2004,Nigerian Used,219080,3024000
+BMW,X5,2007,Nigerian Used,81907,5250000
+Mercedes-Benz,C 200,2000,Nigerian Used,191492,3570000
+Nissan,X-Trail,2012,Nigerian Used,213021,2625000
+Toyota,Highlander,2005,Nigerian Used,116893,3837750
+Honda,Accord,2006,Nigerian Used,305624,1764000
+Honda,Accord,2007,Nigerian Used,99874,3120000
+Toyota,Sienna,2006,Nigerian Used,274775,4160000
+Toyota,Camry,2002,Nigerian Used,260203,3120000
+Hyundai,Entourage,2007,Nigerian Used,178455,4200000
+Chevrolet,Cruze,2010,Nigerian Used,189543,2415000
+Peugeot,406,2004,Foreign Used,95291,6300000
+Ford,Edge,2008,Nigerian Used,284451,2856000
+Toyota,Camry,2007,Nigerian Used,226850,3990000
+Toyota,Camry,2023,Foreign Used,1651,57750000
+Toyota,RAV4,2005,Nigerian Used,265830,2912000
+Honda,Accord,2006,Nigerian Used,198526,1785000
+Volkswagen,Jetta,2017,Foreign Used,112142,10500000
+Toyota,Corolla,2008,Nigerian Used,643563,4725000
+Toyota,Camry,2007,Nigerian Used,270060,3570000
+Toyota,Sienna,2002,Nigerian Used,174468,4160000
+Toyota,Hilux,2014,Foreign Used,176362,16275000
+Nissan,Sentra,2014,Foreign Used,141926,5250000
+Mercedes-Benz,S 550,2012,Foreign Used,116815,23100000
+Honda,Accord,2002,Nigerian Used,198993,1260000
+Toyota,Sienna,2005,Nigerian Used,194730,3744000
+Honda,CR-V,2003,Nigerian Used,292380,2600000
+Toyota,Camry,2007,Nigerian Used,189334,4368000
+Ford,Escape,2008,Nigerian Used,325764,4160000
+Volvo,S60,2007,Nigerian Used,161339,2625000
+Mercedes-Benz,GL 450,2012,Nigerian Used,154955,6300000
+Mercedes-Benz,GLK 350,2013,Foreign Used,116825,19760000
+Toyota,Sienna,2005,Nigerian Used,278945,3192000
+Lexus,RX 350,2010,Nigerian Used,232329,15600000
+Toyota,Camry,2008,Nigerian Used,127391,4200000
+Mercedes-Benz,C 300,2015,Foreign Used,175525,14700000
+Land Rover,LR3,2013,Nigerian Used,152129,12600000
+Toyota,RAV4,2012,Nigerian Used,76584,9464000
+Mercedes-Benz,C 230,2007,Nigerian Used,22096,2260125
+Lexus,ES 330,2004,Nigerian Used,407266,4160000
+Lexus,GX 450,2010,Nigerian Used,65524,15618750
+Ford,Edge,2008,Nigerian Used,329613,3744000
+Volvo,XC90,2004,Nigerian Used,157201,2940000
+Lexus,RX 350,2011,Foreign Used,112595,15225000
+Mercedes-Benz,S 500,2004,Nigerian Used,115485,3150000
+Toyota,Corolla,2004,Nigerian Used,435442,2310000
+Hyundai,Santa Fe,2005,Nigerian Used,227686,2940000
+Toyota,Highlander,2017,Foreign Used,98156,29120000
+Lexus,RX 350,2008,Nigerian Used,277533,10088000
+Mercedes-Benz,GLE 350,2017,Foreign Used,97674,31500000
+Land Rover,LR3,2007,Nigerian Used,110605,5250000
+Ford,F-150,2013,Nigerian Used,387035,11550000
+BMW,320i,2006,Nigerian Used,254218,3150000
+Mercedes-Benz,E 320,2005,Nigerian Used,246822,2835000
+Toyota,Corolla,2005,Nigerian Used,299999,3536000
+Land Rover,LR2,2009,Foreign Used,267672,8925000
+Toyota,Highlander,2014,Foreign Used,251499,22880000
+Mercedes-Benz,C 300,2008,Nigerian Used,133417,6760000
+Acura,MDX,2006,Nigerian Used,114519,2808000
+Toyota,Camry,2009,Nigerian Used,111690,4200000
+Land Rover,Range Rover Evoque,2013,Nigerian Used,60519,7350000
+Toyota,Highlander,2006,Nigerian Used,253367,4680000
+Toyota,Camry,2006,Nigerian Used,147501,3432000
+Land Rover,Range Rover,2011,Foreign Used,143992,9450000
+Lexus,RX 300,2002,Nigerian Used,549283,3328000
+Toyota,Yaris,2008,Nigerian Used,178949,2373000
+Toyota,Highlander,2005,Nigerian Used,372637,4200000
+Lexus,ES 350,2009,Foreign Used,173422,7350000
+Toyota,Camry,2007,Nigerian Used,301345,4576000
+Toyota,Corolla,2003,Nigerian Used,157797,3120000
+Mitsubishi,Grandis,2008,Nigerian Used,415951,3150000
+Lexus,RX 300,2003,Nigerian Used,331733,4368000
+Mercedes-Benz,E 320,2005,Foreign Used,184057,4305000
+Honda,Pilot,2009,Nigerian Used,165047,3832500
+Toyota,Corolla,2011,Nigerian Used,145992,4620000
+Toyota,Camry,2015,Foreign Used,373077,13520000
+Volkswagen,Passat,2008,Nigerian Used,217193,1764000
+Lexus,ES 350,2010,Foreign Used,156414,8190000
+Ford,Edge SE,2008,Nigerian Used,349226,3640000
+Toyota,Camry,2011,Nigerian Used,126263,3990000
+Mercedes-Benz,ML 350 4MATIC,2012,Nigerian Used,180061,20800000
+Toyota,Highlander,2008,Nigerian Used,162286,6195000
+Mercedes-Benz,CLA 250,2015,Nigerian Used,87703,13520000
+Nissan,Frontier,2005,Nigerian Used,372376,3465000
+Hyundai,Sonata,2013,Nigerian Used,146881,4200000
+Chrysler,300,2009,Nigerian Used,275175,3675000
+Mercedes-Benz,GLE 350 ,2016,Foreign Used,138219,39520000
+Hyundai,Elantra,2012,Nigerian Used,118799,3675000
+Honda,Pilot,2006,Nigerian Used,279763,2808000
+Toyota,Sienna,2004,Nigerian Used,162485,4680000
+Nissan,Frontier,2006,Nigerian Used,188568,3150000
+Toyota,RAV4,2018,Nigerian Used,51972,16800000
+Lexus,RX 350,2008,Foreign Used,201721,9400000
+Ford,Explorer,2012,Foreign Used,361517,8400000
+Honda,CR-V,2003,Nigerian Used,216969,2288000
+Lexus,GX 470,2005,Nigerian Used,170530,5092500
+Toyota,Camry,2003,Nigerian Used,17844,3120000
+Lexus,ES 330,2004,Nigerian Used,163140,4160000
+Toyota,RAV4,2009,Nigerian Used,137421,4725000
+Lexus,IS 250,2007,Nigerian Used,258163,4935000
+Honda,Accord,2008,Nigerian Used,173635,3952000
+Lexus,GX 470,2007,Nigerian Used,133407,5823562
+Hyundai,Sonata,2014,Nigerian Used,130084,6930000
+Honda,CR-V,2007,Nigerian Used,229167,4680000
+Toyota,Camry,2019,Foreign Used,72970,21000000
+Mercedes-Benz,GL 450,2008,Nigerian Used,175775,6240000
+Toyota,Corolla,2006,Nigerian Used,194578,4680000
+Land Rover,Range Rover Velar,2018,Foreign Used,51034,64480000
+Toyota,Corolla,2009,Nigerian Used,150348,5304000
+Peugeot,307,2004,Foreign Used,216307,4620000
+Lexus,GX 470,2006,Nigerian Used,85203,4410000
+Toyota,Avensis,2006,Nigerian Used,714042,2142000
+Toyota,Matrix,2004,Nigerian Used,344390,3120000
+Lexus,GX 470,2003,Nigerian Used,167368,6240000
+Toyota,RAV4,2003,Nigerian Used,240794,2625000
+Honda,Accord,2008,Nigerian Used,327256,2520000
+Toyota,Camry,2013,Nigerian Used,243237,8008000
+Ford,Escape,2010,Nigerian Used,219999,3150000
+Toyota,Camry,2011,Nigerian Used,243237,4620000
+Honda,Accord,2003,Nigerian Used,204158,1365000
+Toyota,RAV4,2007,Nigerian Used,111333,4992000
+Toyota,Highlander,2002,Nigerian Used,278394,3640000
+Toyota,Sienna LE,2006,Nigerian Used,233230,3675000
+Peugeot,607,2004,Nigerian Used,214552,1365000
+Toyota,RAV4,2002,Nigerian Used,104317,4160000
+Infiniti,QX56,2011,Nigerian Used,234923,15750000
+Toyota,Corolla,2020,Foreign Used,57369,22880000
+Toyota,Camry,2003,Nigerian Used,151736,3120000
+Honda,Pilot,2007,Nigerian Used,353385,2600000
+Toyota,Camry,2006,Nigerian Used,259269,2912000
+Pontiac,Vibe,2005,Nigerian Used,447494,2604000
+Ford,Fusion,2015,Nigerian Used,75681,6825000
+Land Rover,LR3,2007,Nigerian Used,237263,3150000
+Toyota,Camry,2007,Nigerian Used,166004,4420000
+Ford,Edge,2013,Nigerian Used,171246,4417875
+Subaru,Outback,2011,Nigerian Used,107380,5250000
+Jaguar,X-Type,2004,Nigerian Used,229615,2940000
+Lexus,RX 350,2007,Nigerian Used,185196,6448000
+Toyota,Tacoma,2016,Nigerian Used,151046,27300000
+Mercedes-Benz,C 350,2011,Nigerian Used,113693,6240000
+Toyota,Camry,2000,Nigerian Used,173097,1207500
+Nissan,Xterra,2002,Nigerian Used,384955,3120000
+Lexus,ES 350,2019,Nigerian Used,236795,38850000
+Hyundai,Sonata,2011,Foreign Used,97020,6510000
+Peugeot,607,2009,Nigerian Used,7866,3150000
+Toyota,Avalon,2009,Nigerian Used,190851,2352000
+Renault,Duster,2005,Nigerian Used,99623,11025000
+Land Rover,Range Rover,2011,Foreign Used,142378,21000000
+Honda,Pilot,2004,Nigerian Used,153461,1785000
+Toyota,Sienna,2008,Nigerian Used,179348,3255000
+Peugeot,307,2008,Foreign Used,277664,2310000
+Mercedes-Benz,C 300,2009,Nigerian Used,185165,4878403
+Toyota,Land Cruiser,2008,Nigerian Used,280006,7350000
+Toyota,Sienna,2006,Nigerian Used,158270,4368000
+Pontiac,Vibe,2006,Nigerian Used,228237,2940000
+Lexus,GX 470,2005,Nigerian Used,141557,5040000
+BMW,X5,2010,Nigerian Used,167377,3638250
+Lexus,ES 350,2009,Foreign Used,99823,10920000
+Opel,Zafira,2001,Nigerian Used,192761,2415000
+Toyota,Sienna XLE,2007,Nigerian Used,213755,4160000
+Acura,TSX,2006,Nigerian Used,328401,2467500
+Mercedes-Benz,ML 350,2008,Nigerian Used,119704,4533900
+Honda,Accord,2007,Foreign Used,303260,4160000
+Hyundai,Ix35,2010,Nigerian Used,77205,3885000
+Dodge,Challenger,2017,Foreign Used,146849,24675000
+Acura,TL,2000,Nigerian Used,235959,1417500
+Toyota,Camry,2007,Nigerian Used,341756,3622500
+Dodge,Avenger,2008,Nigerian Used,288932,2625000
+Mercedes-Benz,GLA 250,2019,Nigerian Used,61481,31500000
+Volkswagen,Comfort Coupe,2014,Foreign Used,126952,8400000
+Toyota,Camry,2007,Nigerian Used,308570,4160000
+Mercedes-Benz,ML 350,2014,Nigerian Used,165378,20800000
+Acura,TL,2010,Nigerian Used,163924,4515000
+Toyota,Avalon,2013,Foreign Used,214948,14700000
+Lexus,ES 300,2003,Nigerian Used,132269,2520000
+Nissan,Sentra,2007,Nigerian Used,185056,2100000
+Ford,Freestar,2004,Nigerian Used,183555,2100000
+Mercedes-Benz,ML 350,2006,Nigerian Used,181517,5200000
+Lexus,GX 460,2016,Nigerian Used,114369,17640000
+Honda,Accord,2009,Nigerian Used,97113,3952000
+Nissan,Altima,2013,Nigerian Used,229479,3675000
+Honda,Accord,2016,Nigerian Used,199020,7875000
+Lexus,IS 250,2008,Nigerian Used,272421,6240000
+Lexus,RX 300,2000,Nigerian Used,290538,2730000
+Toyota,Corolla,2014,Foreign Used,126392,10400000
+Infiniti,G35,2011,Nigerian Used,178682,3465000
+Honda,Pilot,2003,Nigerian Used,514229,1806000
+Honda,Accord,2008,Nigerian Used,481706,3120000
+Mercedes-Benz,Sprinter,2002,Foreign Used,193210,7875000
+Toyota,Corolla,2007,Nigerian Used,124814,3640000
+Dodge,Charger,2019,Foreign Used,76192,24150000
+Opel,Zafira,2006,Nigerian Used,210065,1680000
+Honda,CR-V,2007,Nigerian Used,210146,3360000
+Toyota,Corolla,2003,Nigerian Used,181464,3120000
+Kia,Sorento,2011,Nigerian Used,122572,6300000
+Toyota,Sienna,2000,Nigerian Used,189239,1575000
+Toyota,Solara,2003,Nigerian Used,254952,2100000
+Acura,RDX,2009,Nigerian Used,114177,3885000
+Land Rover,Rover Discovery,2020,Nigerian Used,55479,57750000
+Mercedes-Benz,GLK 350,2012,Nigerian Used,127823,8400000
+Toyota,4-Runner,2004,Nigerian Used,237337,4160000
+Peugeot,307,2005,Nigerian Used,210070,2100000
+Nissan,Versa,2012,Nigerian Used,148639,3360000
+Toyota,Corolla,2012,Nigerian Used,99090,8320000
+Toyota,Camry,2004,Nigerian Used,141001,2808000
+Volkswagen,Comfort Coupe,2013,Nigerian Used,116257,5250000
+Toyota,Highlander,2003,Nigerian Used,132078,3150000
+Toyota,Sienna,2017,Nigerian Used,61636,18060000
+Honda,Pilot,2005,Nigerian Used,341070,2288000
+Acura,MDX,2006,Nigerian Used,173764,2600000
+Ford,Explorer,2006,Nigerian Used,189328,3150000
+Mercedes-Benz,E 350,2011,Foreign Used,210060,9030000
+Honda,Civic,2008,Nigerian Used,325895,2808000
+Toyota,Camry,2003,Nigerian Used,318443,2205000
+Kia,Optima,2007,Nigerian Used,140973,2835000
+Toyota,Camry,2016,Nigerian Used,187869,8400000
+Mercedes-Benz,S 63 AMG,2007,Nigerian Used,294958,6090000
+Mercedes-Benz,C 300,2016,Foreign Used,211504,24960000
+Kia,Rio,2009,Nigerian Used,191784,1995000
+Pontiac,Vibe,2003,Nigerian Used,281242,3465000
+Kia,Mohave,2009,Nigerian Used,171664,3150000
+Ford,Mustang,2012,Foreign Used,288334,8925000
+Ford,Explorer,2002,Nigerian Used,275278,1575000
+Volvo,S40,2004,Nigerian Used,164268,1260000
+Mercedes-Benz,C 250,2012,Foreign Used,233748,7140000
+Ford,Edge,2007,Nigerian Used,257529,3120000
+Mercedes-Benz,C 230,2004,Nigerian Used,202477,1680000
+Honda,Pilot,2004,Nigerian Used,211787,2080000
+Toyota,Corolla,2004,Nigerian Used,117087,4095000
+Toyota,Camry,2011,Foreign Used,113874,7800000
+Toyota,Highlander,2008,Nigerian Used,86284,8320000
+Toyota,Avalon,2016,Nigerian Used,17709,14175000
+Toyota,Avensis,2005,Nigerian Used,359814,2912000
+Toyota,Avensis Verso,2007,Nigerian Used,239918,2835000
+Toyota,Venza,2012,Nigerian Used,206069,11960000
+Nissan,Xterra,2002,Nigerian Used,302948,2080000
+Toyota,Corolla,2011,Nigerian Used,185423,4725000
+Toyota,Sienna,2008,Foreign Used,135244,7140000
+Toyota,Avalon,2006,Nigerian Used,339364,2989875
+Mazda,CX-7,2007,Nigerian Used,183356,2811375
+Volkswagen,Passat,2007,Nigerian Used,198596,2730000
+Toyota,Sienna,2007,Foreign Used,316236,7800000
+Acura,TL,2006,Nigerian Used,214212,2100000
+Mercedes-Benz,E 63,2014,Nigerian Used,52559,9331875
+Nissan,Frontier,2006,Nigerian Used,11949,5096000
+Toyota,Highlander,2011,Foreign Used,325862,13000000
+Honda,Accord,2004,Nigerian Used,252440,1768000
+Honda,Pilot,2004,Nigerian Used,255941,2100000
+Toyota,Camry,2002,Nigerian Used,335156,2288000
+Toyota,Highlander,2007,Nigerian Used,407373,4524000
+Mazda,626,2000,Nigerian Used,526021,1155000
+Toyota,Avalon,2013,Foreign Used,144018,12495000
+Nissan,Altima,2003,Nigerian Used,202492,1260000
+Mercedes-Benz,C 240,2004,Nigerian Used,5842,2205000
+Acura,RDX,2017,Foreign Used,85319,25200000
+Lexus,ES 330,2005,Foreign Used,110577,5985000
+Toyota,Camry,2000,Nigerian Used,293620,1560000
+Toyota,Camry,2000,Nigerian Used,409166,1560000
+Toyota,Camry,2006,Nigerian Used,314608,2436000
+Peugeot,508,2012,Nigerian Used,388449,5670000
+Toyota,Highlander,2002,Nigerian Used,102966,2625000
+Toyota,Corolla,2007,Nigerian Used,208563,3848000
+Ford,F-150,2003,Nigerian Used,341188,4725000
+Honda,Crosstour,2011,Nigerian Used,162575,4888000
+Toyota,Camry,2011,Nigerian Used,312142,3675000
+Ford,Edge,2021,Nigerian Used,12766,25200000
+Toyota,Camry,2003,Nigerian Used,204785,2600000
+Toyota,Camry,2004,Nigerian Used,437314,3120000
+Ford,Escape,2014,Nigerian Used,160793,4410000
+Nissan,Rogue,2011,Nigerian Used,147129,3150000
+Toyota,Highlander,2008,Nigerian Used,112927,5670000
+Ford,Escape,2008,Nigerian Used,265228,2310000
+Toyota,4-Runner,2005,Nigerian Used,400851,3952000
+Land Rover,Range Rover Sport,2015,Foreign Used,131574,32550000
+Toyota,Camry,2009,Nigerian Used,270957,3465000
+Toyota,Sienna,2007,Nigerian Used,213915,2520000
+Nissan,Altima,2012,Foreign Used,282165,2625000
+Mitsubishi,Spacestar,2002,Foreign Used,178750,3675000
+Toyota,Highlander,2006,Nigerian Used,192790,4680000
+Honda,Accord,2008,Nigerian Used,171603,2912000
+Toyota,Sienna,2012,Nigerian Used,147460,6300000
+Honda,Odyssey,2007,Nigerian Used,214071,2142000
+Acura,MDX,2008,Nigerian Used,139275,3675000
+Hyundai,Palisade,2020,Nigerian Used,6295,36750000
+Acura,MDX,2005,Nigerian Used,422478,2310000
+Toyota,Corolla,2008,Nigerian Used,291808,3528000
+Lexus,RX 350,2010,Foreign Used,151520,15750000
+Opel,Zafira,2006,Foreign Used,239445,2415000
+Acura,MDX,2008,Nigerian Used,133058,5200000
+Peugeot,407,2005,Nigerian Used,99999,3150000
+Acura,MDX,2001,Nigerian Used,212775,2100000
+Lexus,RX 350,2010,Foreign Used,175526,13860000
+Peugeot,307,2008,Nigerian Used,258914,1575000
+Mercedes-Benz,G 55 AMG,2003,Nigerian Used,234812,15456000
+Lexus,RX 330,2006,Nigerian Used,465883,5250000
+Nissan,Altima,2008,Nigerian Used,327349,1764000
+Honda,Pilot,2006,Nigerian Used,167019,3848000
+Nissan,Sentra,2012,Nigerian Used,149051,3675000
+Peugeot,406,2005,Nigerian Used,999999,1995000
+Ford,Edge,2008,Nigerian Used,177215,2813580
+Honda,CR-V,2016,Nigerian Used,73822,10500000
+Toyota,Corolla,2010,Foreign Used,297145,7384000
+Kia,Sorento,2018,Nigerian Used,47979,10500000
+Acura,MDX,2013,Nigerian Used,46314,6300000
+Chevrolet,Malibu,2009,Nigerian Used,110323,2625000
+Toyota,Sienna,2007,Nigerian Used,302153,3675000
+Lexus,GX 460,2010,Foreign Used,55625,29120000
+Mercedes-Benz,C 250,2012,Nigerian Used,29855,9765000
+Toyota,RAV4,2002,Nigerian Used,201144,2444000
+Toyota,Camry,2007,Nigerian Used,119219,3255000
+Toyota,Camry,2005,Nigerian Used,313692,3120000
+Honda,Odyssey,2007,Foreign Used,369807,4515000
+Toyota,Estima,2001,Foreign Used,93637,3675000
+Toyota,Camry,2005,Nigerian Used,243715,3640000
+Toyota,Camry,2011,Foreign Used,416961,7280000
+Toyota,Camry,2003,Nigerian Used,425602,2600000
+Toyota,Venza,2013,Foreign Used,178227,15496000
+Toyota,Highlander,2006,Nigerian Used,334742,3465000
+Lexus,GS 350,2008,Nigerian Used,303882,5720000
+Nissan,Murano,2009,Nigerian Used,97691,4200000
+Toyota,Camry,2013,Foreign Used,352023,8925000
+Toyota,Camry,2010,Nigerian Used,244194,4016250
+Nissan,Murano,2012,Nigerian Used,189686,5460000
+Mercedes-Benz,GLC 250 4MATIC,2017,Foreign Used,184285,52000000
+Peugeot,307,2008,Nigerian Used,460388,2704000
+Ford,Edge,2007,Foreign Used,158234,3465000
+Lexus,ES 330,2002,Nigerian Used,285345,2604000
+Hyundai,Sonata,2011,Foreign Used,155739,5250000
+Hyundai,Santa Fe,2016,Foreign Used,174132,17680000
+Toyota,Venza,2009,Nigerian Used,86647,8320000
+Peugeot,206,2004,Nigerian Used,999999,997500
+Kia,Rio,2012,Nigerian Used,157922,2100000
+Skoda,Octavia,2009,Nigerian Used,78125,1564500
+Toyota,Camry,2012,Foreign Used,156651,9672000
+Ford,Edge,2008,Nigerian Used,261685,3120000
+Hyundai,Santa Fe,2008,Foreign Used,279231,4725000
+Honda,Odyssey,2006,Foreign Used,409198,4882500
+Toyota,Tacoma,2011,Nigerian Used,265906,14700000
+Hyundai,Elantra,2011,Nigerian Used,139877,3465000
+Hyundai,Sonata,2016,Foreign Used,46247,13520000
+BMW,450,2016,Nigerian Used,83886,13650000
+Toyota,Matrix,2003,Nigerian Used,237016,2652000
+Hyundai,Sonata,2016,Foreign Used,134939,13520000
+Honda,Accord,2000,Nigerian Used,387210,2080000
+Honda,Crosstour,2010,Nigerian Used,121048,4462500
+Mercedes-Benz,GL 450 4MATIC,2007,Nigerian Used,196434,5720000
+Toyota,Corolla,2007,Nigerian Used,252588,3640000
+Honda,Accord,2001,Nigerian Used,180318,1248000
+Mercedes-Benz,C 320,2002,Nigerian Used,185723,2205000
+Nissan,Sentra,2002,Nigerian Used,456236,997500
+Ford,Explorer,2003,Nigerian Used,242559,3150000
+Toyota,Avalon,2007,Nigerian Used,234569,3078600
+Toyota,Highlander,2020,Foreign Used,36858,49816000
+Toyota,4-Runner,2011,Nigerian Used,151590,13520000
+Toyota,Camry,2005,Nigerian Used,181554,3120000
+Toyota,Sienna,2004,Nigerian Used,152606,3640000
+Mazda,MPV,2003,Nigerian Used,367273,1890000
+Toyota,Highlander,2022,Nigerian Used,10142,66150000
+Toyota,Highlander,2004,Nigerian Used,220666,2625000
+Toyota,Highlander,2001,Nigerian Used,207798,3622500
+Honda,Accord,2006,Nigerian Used,146708,1680000
+Mercedes-Benz,ML 350,2009,Nigerian Used,270829,9360000
+Toyota,Sienna,2008,Nigerian Used,674023,4160000
+Toyota,Yaris,2000,Nigerian Used,138969,2730000
+Toyota,Camry,2013,Nigerian Used,171320,6825000
+Mercedes-Benz,E 300,2017,Nigerian Used,135628,27825000
+Toyota,Land Cruiser Prado,2013,Nigerian Used,146436,62400000
+Ford,Expedition,2007,Nigerian Used,223245,4200000
+Lexus,RX 350,2016,Nigerian Used,159166,37275000
+Mercedes-Benz,GL 450,2008,Nigerian Used,200135,5200000
+Mercedes-Benz,ML 350,2006,Nigerian Used,204400,3528000
+Toyota,Venza,2011,Foreign Used,101113,12180000
+Kia,Sportage,2006,Nigerian Used,308037,2625000
+Lexus,ES 350,2007,Nigerian Used,152826,6032000
+Mercedes-Benz,C 300,2009,Nigerian Used,305483,4158000
+Peugeot,206,2006,Nigerian Used,965604,1768000
+Toyota,Prius,2013,Nigerian Used,295349,4620000
+Mercedes-Benz,S 550 4MATIC,2007,Foreign Used,191459,9450000
+Ford,Explorer,2004,Nigerian Used,187403,1785000
+Lexus,RX 450h,2019,Foreign Used,34327,37800000
+Toyota,Highlander,2012,Nigerian Used,85721,9400000
+Volkswagen,Passat,2009,Nigerian Used,419350,2467500
+Hyundai,Sonata,2008,Foreign Used,266892,4200000
+Nissan,Pathfinder,2006,Nigerian Used,254288,1680000
+Toyota,Highlander,2010,Nigerian Used,127036,8840000
+Lexus,RX 330,2004,Nigerian Used,158231,5145000
+Mercedes-Benz,GLC 300,2018,Foreign Used,67307,28350000
+Honda,CR-V,2019,Nigerian Used,43213,22880000
+Hyundai,Santa Fe,2018,Nigerian Used,80601,11334750
+Honda,CR-V,2007,Nigerian Used,196982,4368000
+Honda,Accord,2006,Nigerian Used,182059,2080000
+Honda,Accord,2005,Nigerian Used,248198,1575000
+Lexus,RX 350,2009,Nigerian Used,174418,8112000
+Jeep,Wrangler,2020,Foreign Used,20944,58800000
+Toyota,Corolla,2016,Nigerian Used,210332,8008000
+Mitsubishi,L200,2018,Nigerian Used,58990,9975000
+Toyota,Highlander,2004,Nigerian Used,158936,4472000
+Toyota,Highlander,2008,Foreign Used,148456,10920000
+Mercedes-Benz,GL 450 4MATIC,2013,Nigerian Used,53819,26000000
+Kia,Sorento,2003,Nigerian Used,133990,2100000
+BMW,X5,2015,Foreign Used,145293,26000000
+Honda,Accord,2005,Foreign Used,117172,2625000
+Lexus,ES 330,2005,Nigerian Used,240332,3848000
+Toyota,Corolla,2012,Nigerian Used,194551,4935000
+Peugeot,406,2008,Nigerian Used,30000,2100000
+Mercedes-Benz,C 300,2010,Nigerian Used,329663,5512000
+Toyota,Venza XLE,2013,Foreign Used,55199,13650000
+Lexus,GS 430,2001,Nigerian Used,345087,1890000
+Mercedes-Benz,C 300,2010,Nigerian Used,145811,5250000
+Honda,Accord,2003,Nigerian Used,156143,1365000
+Lexus,RX 300,2002,Nigerian Used,376347,3432000
+Mercedes-Benz,B 200,2009,Nigerian Used,208075,4095000
+Toyota,Camry,2002,Nigerian Used,457924,1176000
+Honda,Accord,2003,Nigerian Used,404383,1470000
+Toyota,Camry,2008,Nigerian Used,207212,3990000
+Toyota,Solara,2006,Nigerian Used,221741,1911000
+Mercedes-Benz,GL 550 4MATIC,2015,Nigerian Used,18620,28080000
+Mazda,CX-7,2007,Nigerian Used,150207,3045000
+Toyota,Sienna,2004,Foreign Used,353950,6760000
+Toyota,Sienna,2006,Foreign Used,128598,7488000
+Toyota,Sienna,2004,Nigerian Used,148728,2310000
+Honda,Accord,2019,Foreign Used,64035,36400000
+Kia,Rio,2022,Nigerian Used,2408,23100000
+Mercedes-Benz,C 300,2011,Nigerian Used,83670,4725000
+Toyota,Highlander,2002,Nigerian Used,198227,3640000
+Ford,F-150,2012,Nigerian Used,322495,9975000
+Lexus,RX 350,2017,Nigerian Used,99209,26250000
+Toyota,Hilux,2022,Nigerian Used,2007,70350000
+Toyota,Camry,2017,Foreign Used,112470,11760000
+Toyota,Highlander,2011,Nigerian Used,151183,9932000
+Toyota,Picnic,2002,Nigerian Used,163759,3675000
+Toyota,Corolla,2004,Nigerian Used,482800,2436000
+Nissan,Altima,2010,Nigerian Used,40502,2047500
+Peugeot,406,2000,Nigerian Used,341214,1890000
+Mercedes-Benz,ML 350 4MATIC,2009,Nigerian Used,150004,8528000
+Honda,City,2009,Nigerian Used,106610,2415000
+Toyota,Corolla,2011,Nigerian Used,118865,5720000
+Toyota,Matrix,2006,Foreign Used,48278,5500000
+Lexus,RX 350,2007,Nigerian Used,196711,5208000
+Ford,Edge,2012,Foreign Used,22160,9568000
+Ford,Expedition,2008,Nigerian Used,91535,5250000
+Volvo,XC90,2007,Nigerian Used,158981,4725000
+Toyota,Avensis,2005,Nigerian Used,188973,2600000
+Toyota,Camry,2010,Nigerian Used,349638,3150000
+Honda,Accord,2005,Nigerian Used,206748,1470000
+Land Rover,Range Rover,2014,Nigerian Used,167638,26025000
+Mercedes-Benz,GL 450 4MATIC,2007,Nigerian Used,245215,5000000
+Mitsubishi,Outlander,2006,Nigerian Used,102277,3150000
+Lexus,IS 250,2012,Nigerian Used,328953,6300000
+Hyundai,Ix35,2012,Nigerian Used,137936,3150000
+Mercedes-Benz,ML 350 4MATIC,2006,Nigerian Used,14912,8320000
+Nissan,Versa,2011,Foreign Used,82845,3360000
+Toyota,Sienna,2002,Nigerian Used,339746,1911000
+Honda,Accord,2016,Foreign Used,132339,12480000
+Toyota,Tundra,2006,Nigerian Used,156854,4725000
+BMW,X3,2006,Nigerian Used,327550,3990000
+Lexus,IS 250,2010,Nigerian Used,323046,5250000
+Chevrolet,Express,2008,Nigerian Used,303315,2625000
+Honda,Pilot,2006,Nigerian Used,100145,3432000
+Ford,Edge,2010,Nigerian Used,297039,2940000
+Toyota,Venza,2014,Foreign Used,85704,15080000
+Toyota,Highlander,2005,Nigerian Used,178165,4680000
+Toyota,Camry,2004,Nigerian Used,210113,2231250
+Honda,Accord,2018,Foreign Used,58919,26000000
+Toyota,Camry,2006,Nigerian Used,456373,2730000
+Peugeot,307,2008,Nigerian Used,117015,3675000
+GMC,Terrain,2012,Nigerian Used,153752,4935000
+Toyota,Hiace,2000,Nigerian Used,164163,4200000
+Toyota,Highlander,2006,Nigerian Used,332677,3150000
+Lexus,ES 300,2002,Nigerian Used,254504,3360000
+Nissan,Rogue,2012,Foreign Used,102453,8925000
+Mercedes-Benz,C 240,2003,Nigerian Used,217024,2625000
+Honda,Pilot,2007,Nigerian Used,179595,2320500
+Honda,Pilot,2004,Nigerian Used,293204,2288000
+Toyota,Avensis,2000,Foreign Used,260302,3675000
+Honda,Civic,2013,Foreign Used,158095,9030000
+Toyota,Camry,2003,Nigerian Used,542242,2912000
+Toyota,Avalon,2003,Nigerian Used,190379,1627500
+Infiniti,FX35,2009,Nigerian Used,88796,4200000
+Toyota,Corolla,2007,Nigerian Used,233080,2940000
+Toyota,Camry,2005,Nigerian Used,170435,3640000
+Honda,Accord,2006,Foreign Used,270671,3150000
+Mercedes-Benz,E 350,2010,Nigerian Used,27220,8840000
+Ford,Mondeo,2006,Nigerian Used,279474,2625000
+Nissan,Pathfinder,2012,Foreign Used,150251,6300000
+Toyota,Sienna,2004,Nigerian Used,816068,2940000
+Acura,MDX,2002,Nigerian Used,145123,2310000
+Nissan,Altima,2013,Nigerian Used,186768,4305000
+Land Rover,Land Rover,2006,Nigerian Used,275628,6300000
+Toyota,Sienna,2008,Nigerian Used,339458,4680000
+BMW,X5,2011,Foreign Used,211090,11550000
+Acura,MDX,2014,Foreign Used,123262,15225000
+Toyota,Land Cruiser,2000,Nigerian Used,307907,4200000
+Ford,Edge,2007,Nigerian Used,266321,2625000
+Hyundai,Entourage,2007,Nigerian Used,127447,3150000
+Toyota,Sienna XLE,2012,Foreign Used,138898,10531500
+Toyota,Corolla,2003,Nigerian Used,253643,3744000
+BMW,325i,2008,Nigerian Used,84456,5880000
+Lexus,RX 350,2021,Foreign Used,33923,52000000
+Toyota,Sienna,2004,Foreign Used,328973,4245150
+Mercedes-Benz,A 180,2002,Nigerian Used,199952,1785000
+Mercedes-Benz,C 300,2012,Nigerian Used,177071,11025000
+Volkswagen,Passat,2010,Nigerian Used,271746,2625000
+Toyota,Highlander,2005,Foreign Used,105707,5250000
+Acura,MDX,2001,Nigerian Used,347394,2625000
+Toyota,Sienna,2005,Nigerian Used,245929,3465000
+Toyota,Sienna,2006,Nigerian Used,462202,2940000
+Toyota,Corolla,2003,Nigerian Used,415233,2310000
+Acura,MDX,2006,Nigerian Used,141963,3120000
+Toyota,Corolla,2011,Nigerian Used,150032,4200000
+Toyota,4-Runner,2004,Nigerian Used,376688,2257500
+Toyota,Highlander Hybrid,2006,Nigerian Used,266987,3160500
+Honda,Pilot,2009,Nigerian Used,144924,4680000
+Acura,MDX,2002,Nigerian Used,240428,1995000
+Pontiac,Vibe,2004,Nigerian Used,339371,2625000
+Honda,Accord,2004,Nigerian Used,189452,1570000
+Honda,Accord,2009,Nigerian Used,185261,3120000
+Toyota,Highlander,2004,Nigerian Used,494712,4680000
+GAC,GS4,2015,Nigerian Used,60647,12600000
+Toyota,Vios,2005,Foreign Used,182034,5460000
+Toyota,Tacoma,2004,Nigerian Used,128969,5250000
+Infiniti,G35,2006,Nigerian Used,345406,2625000
+Toyota,Matrix,2006,Nigerian Used,272603,3120000
+Honda,Crosstour,2010,Nigerian Used,71708,4680000
+Mercedes-Benz,C 300,2010,Nigerian Used,308964,4725000
+Toyota,Matrix,2003,Nigerian Used,448696,3016000
+Toyota,Avalon,2013,Nigerian Used,100638,9880000
+Honda,Civic,2012,Nigerian Used,201303,3150000
+Mercedes-Benz,ML 320,2000,Nigerian Used,169275,1512000
+Lexus,RX 300,2000,Nigerian Used,127178,1890000
+Toyota,Highlander,2003,Nigerian Used,163546,3339000
+Chevrolet,Avalanche,2008,Nigerian Used,249264,5250000
+Toyota,Corolla,2006,Nigerian Used,19960,3640000
+Toyota,4-Runner,2004,Nigerian Used,398266,4160000
+Honda,Pilot,2006,Nigerian Used,184994,2704000
+Toyota,Corolla,2003,Nigerian Used,452569,1575000
+Toyota,Camry,2000,Nigerian Used,177999,2080000
+Lexus,LX 570,2010,Foreign Used,3674,48880000
+Volvo,XC90,2008,Nigerian Used,275489,3360000
+Lexus,NX 350,2023,Foreign Used,3955,86100000
+Toyota,Highlander,2012,Nigerian Used,315144,9776000
+Mercedes-Benz,ML 350,2010,Nigerian Used,250534,8840000
+Toyota,4-Runner,2003,Nigerian Used,271086,2835000
+Toyota,Hiace,2012,Foreign Used,292633,15750000
+Toyota,RAV4,2010,Nigerian Used,143042,5250000
+Mercedes-Benz,ML 350,2013,Foreign Used,8920,22880000
+BMW,535i,2016,Foreign Used,197736,36750000
+Mercedes-Benz,S 550,2008,Nigerian Used,148733,6300000
+Land Rover,Range Rover Sport,2007,Nigerian Used,153312,3465000
+Lexus,IS 250,2009,Foreign Used,152411,6825000
+Acura,TL,2003,Nigerian Used,418938,1470000
+Opel,Vectra,2005,Foreign Used,191425,4200000
+Jeep,Wrangler,2010,Nigerian Used,82953,9450000
+Honda,Pilot,2004,Nigerian Used,147681,2600000
+Land Rover,Range Rover,2007,Nigerian Used,198183,7350000
+GMC,Terrain,2010,Foreign Used,9390,8925000
+Toyota,Matrix,2008,Foreign Used,180703,6240000
+Toyota,Sienna LE,2005,Nigerian Used,323304,2940000
+Mercedes-Benz,E 350,2006,Nigerian Used,187240,2163000
+Mercedes-Benz,C 280,2001,Nigerian Used,150776,3045000
+Lexus,LS 460,2012,Nigerian Used,165794,9240000
+Mercedes-Benz,E 350,2007,Nigerian Used,282851,3640000
+Kia,Rio,2014,Nigerian Used,91348,2625000
+Dodge,Caravan,2005,Nigerian Used,232444,1785000
+Toyota,RAV4,2008,Nigerian Used,170383,4992000
+Hyundai,Sonata,2008,Nigerian Used,183489,1680000
+Honda,Accord,2007,Nigerian Used,116150,1890000
+Toyota,Venza XLE,2021,Foreign Used,15085,57200000
+Toyota,Matrix,2005,Foreign Used,159646,4725000
+Lexus,RX 330,2006,Nigerian Used,92013,6760000
+Honda,Odyssey,2010,Nigerian Used,223383,4725000
+Ford,Mustang,2016,Nigerian Used,119549,26250000
+Toyota,Solara,2008,Nigerian Used,356892,3150000
+Toyota,Matrix,2006,Nigerian Used,329382,3640000
+Peugeot,406,2004,Nigerian Used,965604,1470000
+Toyota,Camry,2002,Nigerian Used,247038,4160000
+Toyota,Corolla,2006,Nigerian Used,299999,3952000
+Hyundai,Azera,2011,Nigerian Used,229362,3150000
+Toyota,Avalon,2006,Nigerian Used,260927,1785000
+Land Rover,Rover Discovery,2004,Nigerian Used,135073,2940000
+Toyota,Venza XLE,2013,Nigerian Used,204965,8715000
+Toyota,Camry,2007,Nigerian Used,195423,3234000
+Toyota,Corolla,2022,Nigerian Used,7068,17850000
+Volkswagen,Passat,2010,Nigerian Used,154091,2100000
+Mercedes-Benz,ML 350,2003,Nigerian Used,183490,3150000
+Mercedes-Benz,E 350,2006,Nigerian Used,287261,4160000
+Toyota,Hilux,2022,Nigerian Used,9434,47250000
+Volvo,XC90,2008,Nigerian Used,175783,3848000
+Toyota,Venza,2010,Nigerian Used,135826,10400000
+Honda,Odyssey,2004,Nigerian Used,190587,1659000
+Honda,Pilot,2007,Nigerian Used,110563,2625000
+Nissan,Xterra,2006,Nigerian Used,230792,3150000
+Mercedes-Benz,GL 450 4MATIC,2012,Nigerian Used,289509,9135000
+Honda,Ridgeline,2006,Nigerian Used,301136,4160000
+Toyota,Avalon,2011,Nigerian Used,144950,7350000
+Ford,Edge,2007,Nigerian Used,162361,2100000
+Nissan,Pathfinder,2002,Nigerian Used,172981,2080000
+Kia,Sorento,2006,Nigerian Used,151839,5250000
+Dodge,Caravan,2005,Foreign Used,121768,2425000
+Toyota,RAV4,2010,Nigerian Used,87020,3990000
+Kia,Sportage,2011,Foreign Used,177919,8400000
+Kia,Rio,2019,Nigerian Used,52080,10500000
+Hyundai,Azera,2013,Nigerian Used,183657,5565000
+Toyota,Highlander,2004,Nigerian Used,253854,3360000
+Lexus,GS 300,2005,Nigerian Used,234900,3360000
+Toyota,Avalon,2012,Nigerian Used,147259,6825000
+Honda,Accord,2013,Nigerian Used,126267,7280000
+Toyota,Camry,2012,Nigerian Used,162313,7800000
+Toyota,Highlander,2008,Nigerian Used,98741,7280000
+Toyota,Highlander,2007,Nigerian Used,328590,4200000
+Nissan,Sentra,2007,Nigerian Used,237247,1470000
+Kia,Cerato,2012,Nigerian Used,32365,3150000
+Lexus,RX 350,2009,Nigerian Used,174322,8112000
+Toyota,Corolla,2003,Nigerian Used,249089,3328000
+Mitsubishi,Outlander,2008,Nigerian Used,169028,1890000
+Toyota,Camry,2010,Nigerian Used,88716,4680000
+Volkswagen,Jetta,2008,Nigerian Used,132437,1680000
+Honda,City,2012,Nigerian Used,151334,1995000
+Toyota,Camry,2008,Foreign Used,147419,6760000
+Mercedes-Benz,GLE 350,2017,Foreign Used,97763,30450000
+Toyota,Sienna XLE,2004,Nigerian Used,399496,2520000
+Toyota,Camry,2002,Nigerian Used,318235,2184000
+Nissan,Armada,2006,Nigerian Used,234369,3570000
+Lexus,RX 300,2000,Nigerian Used,234381,2415000
+Chevrolet,Captiva,2011,Nigerian Used,38117,5250000
+Lexus,GX 460,2004,Nigerian Used,325146,15600000
+Lexus,ES 330,2003,Nigerian Used,109238,2772000
+Hyundai,Sonata,2007,Nigerian Used,99632,1785000
+Ford,Edge,2009,Nigerian Used,301566,3823300
+Kia,Sorento,2014,Nigerian Used,118048,4725000
+Lexus,RX 300,2001,Nigerian Used,380092,1890000
+Toyota,RAV4,2008,Nigerian Used,192333,4888000
+BMW,328i,2007,Nigerian Used,207226,3675000
+Ford,Explorer,2012,Foreign Used,175910,9450000
+Toyota,Highlander,2006,Nigerian Used,270457,3360000
+Volkswagen,Golf,2005,Foreign Used,190425,1785000
+Toyota,Corolla,2007,Nigerian Used,401184,2310000
+Honda,Accord,2005,Nigerian Used,213188,1716000
+Toyota,Highlander,2002,Nigerian Used,177523,2625000
+Kia,Sportage,2021,Nigerian Used,23543,22890000
+Volkswagen,Jetta,2015,Nigerian Used,118137,5775000
+Toyota,Sienna,2011,Nigerian Used,103095,6090000
+Nissan,Versa,2007,Nigerian Used,206693,3675000
+Nissan,Almera,2019,Nigerian Used,6563,4725000
+Opel,Astra,2000,Nigerian Used,264701,840000
+Mercedes-Benz,Vaneo,2003,Nigerian Used,196075,2415000
+Honda,CR-V,2019,Nigerian Used,37138,15750000
+Toyota,Camry,2015,Foreign Used,277524,8400000
+Mercedes-Benz,C 350,2008,Nigerian Used,292625,5720000
+Toyota,Camry,2010,Nigerian Used,189210,4680000
+Honda,Accord,2003,Nigerian Used,432869,1976000
+Pontiac,Torrent,2008,Foreign Used,341667,8190000
+Toyota,Camry,2009,Foreign Used,342374,6968000
+Honda,Accord,2007,Nigerian Used,109662,2600000
+Toyota,Corolla,2009,Nigerian Used,183966,4410000
+Nissan,Xterra,2005,Nigerian Used,175831,3675000
+Peugeot,406,2004,Nigerian Used,109211,1890000
+Toyota,Corolla,2006,Nigerian Used,187011,2730000
+Honda,Accord,2004,Nigerian Used,237217,1470000
+Volkswagen,Passat,2012,Foreign Used,195563,7245000
+Changan,CS35,2023,Nigerian Used,12732,24675000
+Ford,Edge,2009,Nigerian Used,247910,3120000
+Dodge,Avenger,2012,Nigerian Used,237827,3990000
+Toyota,Corolla,2020,Foreign Used,28049,26775000
+Toyota,RAV4,2001,Nigerian Used,147356,2205000
+Toyota,Corolla,2006,Nigerian Used,401654,2940000
+Hyundai,Sonata,2016,Foreign Used,184808,11960000
+Volkswagen,Passat,2012,Nigerian Used,246312,5200000
+Toyota,Camry,2018,Foreign Used,54733,23920000
+Honda,Accord,2008,Nigerian Used,221136,2730000
+Honda,Accord,2013,Foreign Used,277250,8925000
+Toyota,4-Runner,2001,Nigerian Used,270604,2625000
+Toyota,Avalon,2008,Nigerian Used,137415,2835000
+Lexus,LX 570,2008,Nigerian Used,70464,36750000
+Honda,Accord,2017,Foreign Used,80784,15600000
+Ford,Mustang,2014,Foreign Used,105059,17325000
+Toyota,Sienna,2000,Nigerian Used,315240,2288000
+Toyota,Matrix,2009,Foreign Used,113132,6552000
+Honda,Pilot,2006,Nigerian Used,122473,2704000
+Toyota,Sienna,2004,Foreign Used,266096,6760000
+Mitsubishi,L200,2016,Nigerian Used,73892,6825000
+Toyota,Highlander,2013,Nigerian Used,115243,13520000
+Ford,Edge,2011,Nigerian Used,151195,4284000
+Nissan,Altima,2003,Nigerian Used,329763,1575000
+Toyota,Camry,2004,Nigerian Used,256321,2600000
+Mazda,6,2004,Foreign Used,262552,3570000
+Peugeot,Partner,2006,Nigerian Used,203055,2625000
+Nissan,Rogue,2010,Foreign Used,323054,5775000
+Toyota,Corolla,2005,Nigerian Used,200758,3328000
+Mercedes-Benz,E 350,2012,Nigerian Used,375734,6783000
+Toyota,Matrix,2003,Nigerian Used,127216,2704000
+Honda,Pilot,2010,Nigerian Used,251277,5720000
+Toyota,Highlander,2003,Nigerian Used,218987,2940000
+Lexus,ES 330,2005,Nigerian Used,323755,2982000
+Land Rover,Range Rover Sport,2008,Nigerian Used,85568,5250000
+Toyota,Corolla,2016,Nigerian Used,132396,11440000
+Lexus,RX 330,2006,Nigerian Used,325332,5720000
+Lexus,ES 350,2014,Nigerian Used,100163,15600000
+Hyundai,Veloster,2012,Nigerian Used,149781,3885000
+Toyota,Camry,2007,Nigerian Used,145921,3234000
+Toyota,Camry,2001,Nigerian Used,185816,945000
+Honda,Accord,2009,Nigerian Used,127877,2436000
+Toyota,Camry,2011,Nigerian Used,252340,6240000
+Hyundai,Ix35,2013,Nigerian Used,81434,5200000
+Hyundai,Veracruz,2008,Nigerian Used,100035,5250000
+Nissan,X-Trail,2012,Nigerian Used,158761,4725000
+Toyota,Matrix,2004,Nigerian Used,124531,2310000
+Honda,CR-V,2002,Nigerian Used,199230,1260000
+BMW,318i,2006,Nigerian Used,51696,2625000
+Toyota,Camry,2004,Nigerian Used,112262,2808000
+Honda,Accord,2007,Nigerian Used,346733,2808000
+Mercedes-Benz,C 300,2011,Nigerian Used,120956,4908750
+Honda,Civic,2007,Nigerian Used,221229,2600000
+Peugeot,206,2003,Foreign Used,128330,2730000
+Kia,Rio,2014,Nigerian Used,180326,2625000
+Dodge,Dart,2013,Foreign Used,239619,6300000
+Acura,MDX,2008,Nigerian Used,96761,3885000
+Toyota,Camry,2009,Nigerian Used,172385,5200000
+Toyota,Camry,2016,Foreign Used,131508,11550000
+Toyota,Camry,2016,Nigerian Used,171035,9152000
+Toyota,Highlander,2002,Nigerian Used,249341,3360000
+Nissan,Micra,2000,Foreign Used,119718,3045000
+Ford,Mondeo,2005,Nigerian Used,209081,2100000
+Toyota,Camry,2004,Nigerian Used,237266,3328000
+Infiniti,G35,2007,Nigerian Used,146948,3360000
+Land Rover,Range Rover,2013,Foreign Used,104595,20475000
+Toyota,Highlander,2005,Nigerian Used,144523,4160000
+Mitsubishi,Spacestar,2003,Nigerian Used,167600,1260000
+Peugeot,206,2004,Nigerian Used,191290,2310000
+Hyundai,Ix35,2014,Nigerian Used,133171,5670000
+Nissan,Altima,2014,Nigerian Used,114855,4305000
+Peugeot,406,2000,Nigerian Used,284634,1260000
+Lexus,IS 250,2008,Foreign Used,310847,3150000
+Toyota,Sienna,2009,Nigerian Used,168894,4888000
+Volkswagen,Jetta,2012,Nigerian Used,102668,2835000
+BMW,528i,2008,Nigerian Used,365175,3465000
+Lexus,ES 350,2008,Nigerian Used,82580,5616000
+Honda,Accord,2007,Nigerian Used,221248,1874250
+Honda,Accord,2007,Nigerian Used,154202,2392000
+Toyota,4-Runner,2003,Nigerian Used,230342,2588250
+Hyundai,Santa Fe,2007,Nigerian Used,291245,2625000
+Land Rover,Range Rover,2010,Nigerian Used,149171,8400000
+Mazda,CX-7,2008,Foreign Used,204115,3990000
+Toyota,Highlander,2004,Nigerian Used,144394,5408000
+Toyota,Avalon,2013,Nigerian Used,135514,10400000
+Toyota,Sienna LE,2011,Nigerian Used,86091,6447000
+Toyota,Camry,2003,Nigerian Used,181259,2600000
+Toyota,Highlander Limited,2008,Foreign Used,241297,9450000
+Mercedes-Benz,GL 450,2008,Nigerian Used,2422,5040000
+Toyota,Corolla,2005,Nigerian Used,174920,3536000
+Infiniti,QX56,2008,Nigerian Used,136133,2415000
+Subaru,Tribeca,2006,Nigerian Used,188559,3780000
+Mercedes-Benz,CLK,2006,Nigerian Used,256490,3150000
+Toyota,RAV4,2013,Nigerian Used,161852,10185000
+Hyundai,Sonata,2011,Foreign Used,253008,9360000
+Toyota,Sienna,2011,Nigerian Used,79654,8632000
+Toyota,Camry,2006,Nigerian Used,342013,4160000
+Toyota,Sienna,2005,Nigerian Used,193444,3255000
+Lexus,RX 300,2003,Foreign Used,166045,5512000
+Toyota,Matrix,2003,Nigerian Used,110883,2600000
+Lexus,RX 350,2014,Foreign Used,85774,18720000
+Toyota,Sienna,2004,Nigerian Used,122898,3640000
+Kia,Sportage,2012,Nigerian Used,189355,5250000
+Toyota,Corolla,2003,Nigerian Used,482800,2625000
+Toyota,Sienna,2008,Nigerian Used,404525,4368000
+Lexus,RX 330,2006,Nigerian Used,48619,6760000
+Honda,Pilot,2004,Nigerian Used,281494,1680000
+Toyota,Avensis,2006,Nigerian Used,120225,1785000
+Toyota,Camry,2012,Nigerian Used,112411,6760000
+Toyota,Camry,2007,Nigerian Used,232993,3465000
+Mitsubishi,Outlander,2009,Nigerian Used,176830,2100000
+Skoda,Superb,2007,Nigerian Used,259230,2100000
+Mercedes-Benz,CLA 250,2014,Nigerian Used,159680,10400000
+Nissan,Juke,2015,Foreign Used,130179,11550000
+Toyota,Corolla,2009,Nigerian Used,136496,4888000
+Toyota,Sienna,2005,Nigerian Used,170218,3640000
+Honda,Pilot,2003,Nigerian Used,341296,2047500
+Mitsubishi,Pajero,2011,Nigerian Used,132394,3255000
+Mercedes-Benz,ML 350 4MATIC,2011,Nigerian Used,87961,8736000
+Mercedes-Benz,GL 450,2007,Nigerian Used,265032,3360000
+Ford,Escape,2018,Nigerian Used,130808,5460000
+Lexus,IS 250,2008,Foreign Used,130932,6352500
+Suzuki,XL-7,2007,Foreign Used,186782,5250000
+Ford,F-150,2012,Nigerian Used,100118,9975000
+Acura,MDX,2003,Nigerian Used,220690,1732500
+Lexus,GX 470,2006,Nigerian Used,165980,5775000
+Mazda,CX-7,2007,Nigerian Used,141490,3150000
+Toyota,Camry,2003,Nigerian Used,743767,1995000
+Lexus,RX 350,2021,Foreign Used,15996,47840000
+Honda,Accord,2011,Nigerian Used,123007,4992000
+Toyota,Venza,2010,Foreign Used,159406,13520000
+Toyota,Highlander,2017,Foreign Used,42867,31304000
+Volkswagen,Jetta,2015,Nigerian Used,126239,4725000
+Toyota,Corolla,2008,Nigerian Used,100272,3255000
+Lexus,GX 470,2004,Nigerian Used,139658,5408000
+Toyota,Camry,2007,Foreign Used,157896,6760000
+Ford,Fusion,2016,Foreign Used,98675,8400000
+Toyota,Venza,2013,Foreign Used,126257,11340000
+Toyota,RAV4,2005,Nigerian Used,95209,2808000
+Toyota,Avensis,2003,Nigerian Used,203053,2730000
+BMW,X6,2009,Nigerian Used,93743,9712500
+Kia,Rio,2003,Nigerian Used,240800,1050000
+Jeep,Wrangler,2017,Nigerian Used,59206,30975000
+Toyota,4-Runner,2013,Foreign Used,95471,22880000
+Honda,Accord,2005,Nigerian Used,166006,1768000
+Toyota,Hilux,2007,Nigerian Used,175052,7800000
+Chevrolet,Epica,2007,Nigerian Used,151987,2467500
+Ford,Edge,2011,Nigerian Used,275295,3675000
+Peugeot,206,2004,Foreign Used,91223,2835000
+Ford,Focus,2014,Foreign Used,112834,4515000
+Toyota,Highlander,2013,Foreign Used,227842,11550000
+Toyota,Camry,2005,Nigerian Used,389616,2415000
+Kia,Sportage,2009,Nigerian Used,123046,2331000
+Land Rover,Range Rover,2008,Foreign Used,158413,6930000
+Hyundai,Sonata,2009,Nigerian Used,124912,3885000
+Nissan,Almera,2002,Nigerian Used,271997,1260000
+Toyota,Sienna,2007,Nigerian Used,346128,4472000
+Honda,Civic,2005,Nigerian Used,301529,1680000
+Lexus,ES 350,2013,Foreign Used,97721,13440000
+Honda,Accord,2003,Nigerian Used,389980,2184000
+Toyota,Matrix,2009,Nigerian Used,115997,3150000
+Mitsubishi,Pajero,2001,Nigerian Used,186109,6300000
+Toyota,Highlander,2012,Foreign Used,242147,12915000
+Mercedes-Benz,GLK 350,2011,Foreign Used,308964,12584000
+Mercedes-Benz,GL 450,2007,Nigerian Used,100335,3509625
+Land Rover,Range Rover Evoque,2014,Nigerian Used,80077,9975000
+Hyundai,Santa Fe,2005,Nigerian Used,261883,1575000
+Ford,Edge,2014,Foreign Used,142082,12272000
+Mercedes-Benz,E 350,2005,Nigerian Used,81823,3255000
+Toyota,RAV4,2003,Nigerian Used,104302,3328000
+Mercedes-Benz,GLE 350 4 MATIC,2019,Nigerian Used,98452,40950000
+Toyota,Sienna,2006,Nigerian Used,89783,3675000
+Toyota,Camry,2011,Foreign Used,256808,6760000
+Lexus,GX 470,2003,Nigerian Used,107638,7280000
+Mercedes-Benz,GLC 300,2017,Nigerian Used,38344,28350000
+Skoda,Superb,2012,Nigerian Used,42316,4725000
+Mercedes-Benz,C 300,2008,Nigerian Used,150982,2940000
+Lexus,RX 300,2003,Nigerian Used,135382,3016000
+Mazda,5,2012,Foreign Used,289850,4935000
+Ford,Edge,2008,Nigerian Used,165610,2835000
+Toyota,Corolla,2006,Nigerian Used,482800,3255000
+Hyundai,XG350,2002,Nigerian Used,167783,1575000
+Mazda,MX-5,2000,Nigerian Used,192481,2415000
+Lexus,ES 300,2001,Nigerian Used,299847,1575000
+Mercedes-Benz,CLS 350,2005,Nigerian Used,149093,2625000
+Toyota,4-Runner,2004,Nigerian Used,131875,5200000
+Mercedes-Benz,GLE 350,2016,Nigerian Used,201906,26000000
+BMW,X5,2010,Nigerian Used,152194,5720000
+Mitsubishi,L200,2016,Nigerian Used,135647,6300000
+Toyota,Avalon,2002,Nigerian Used,157021,2080000
+Lexus,GX 470,2006,Nigerian Used,350591,4893000
+Toyota,4-Runner,2007,Nigerian Used,93386,6760000
+Honda,Accord,2007,Nigerian Used,254687,3120000
+Infiniti,FX35,2012,Nigerian Used,214177,4095000
+Mercedes-Benz,E 350,2011,Nigerian Used,182634,9360000
+Lexus,RX 350,2013,Foreign Used,172600,16485000
+Toyota,Camry,2003,Nigerian Used,180091,3380000
+Mercedes-Benz,A 180,2001,Foreign Used,149956,3885000
+Mazda,6,2003,Nigerian Used,241219,1260000
+Toyota,Sienna,2009,Nigerian Used,90956,5512000
+Ford,Edge,2007,Nigerian Used,161198,3150000
+Toyota,Corolla,2004,Nigerian Used,328995,2730000
+Honda,Pilot,2007,Nigerian Used,223178,2704000
+Toyota,Highlander,2008,Nigerian Used,458885,7000000
+Toyota,Sienna LE,2008,Nigerian Used,101372,4056000
+Ford,Ranger,2012,Nigerian Used,150892,9450000
+Volkswagen,Touran,2005,Foreign Used,373357,2782500
+Honda,HR-V,2021,Nigerian Used,55294,14700000
+Toyota,Highlander,2012,Nigerian Used,147569,8400000
+Peugeot,406,2007,Nigerian Used,143980,2625000
+Nissan,Pathfinder,2004,Nigerian Used,156744,2100000
+GAC,GA4,2020,Nigerian Used,29276,12600000
+BMW,535i,2013,Foreign Used,270803,13125000
+Toyota,Corolla,2015,Foreign Used,70887,9975000
+Lexus,GX 460,2015,Nigerian Used,103950,28080000
+Toyota,Camry,2007,Nigerian Used,137346,3675000
+Nissan,Altima,2008,Nigerian Used,275382,3432000
+Honda,Accord,2012,Nigerian Used,78720,5720000
+Toyota,Land Cruiser,2011,Nigerian Used,376497,26000000
+Toyota,Sienna,2011,Nigerian Used,115394,7280000
+Lexus,IS 250,2008,Nigerian Used,96234,3780000
+Ford,F-150,2008,Nigerian Used,188148,3150000
+Mercedes-Benz,ML 320,2001,Nigerian Used,285639,2100000
+Kia,Sorento,2004,Nigerian Used,285831,2310000
+Ford,Explorer,2013,Foreign Used,202475,12272000
+Toyota,Highlander,2001,Nigerian Used,188119,3150000
+Toyota,Sienna,2000,Nigerian Used,341345,1924000
+Lexus,ES 350,2009,Foreign Used,95463,10400000
+Toyota,Camry,2007,Nigerian Used,167695,3744000
+Nissan,Pathfinder,2014,Foreign Used,311845,6405000
+Honda,Accord,2009,Nigerian Used,194882,2352000
+Honda,Civic,2004,Foreign Used,198180,3570000
+Hyundai,Santa Fe,2003,Nigerian Used,143316,1575000
+Lexus,RX 350,2011,Foreign Used,152909,12180000
+Volkswagen,Passat,2007,Nigerian Used,316587,2205000
+Toyota,Camry,2001,Nigerian Used,149941,1872000
+Honda,HR-V,2001,Nigerian Used,241356,4200000
+Toyota,Highlander Limited,2013,Nigerian Used,144661,9387000
+Toyota,Camry,2007,Foreign Used,320818,5250000
+Honda,Pilot,2003,Nigerian Used,442998,1491000
+Toyota,Highlander Limited,2005,Nigerian Used,190603,3570000
+GMC,Terrain,2015,Nigerian Used,313528,11025000
+Toyota,Camry,2015,Nigerian Used,167274,9135000
+Toyota,RAV4,2011,Nigerian Used,277765,4725000
+Honda,Odyssey,2016,Nigerian Used,42734,14700000
+Toyota,Sienna,2004,Nigerian Used,296698,4680000
+Mercedes-Benz,E 350,2011,Nigerian Used,208716,8320000
+Toyota,Camry,2003,Nigerian Used,180474,2912000
+Honda,Odyssey,2002,Nigerian Used,268732,1260000
+Volkswagen,Passat,2003,Nigerian Used,154011,2100000
+Honda,Pilot,2006,Nigerian Used,330590,2226000
+Suzuki,Grand Vitara,2006,Nigerian Used,259531,4200000
+Infiniti,M35,2009,Nigerian Used,153985,2310000
+Lexus,ES 350,2008,Foreign Used,69044,8320000
+Nissan,Pathfinder,2007,Nigerian Used,325437,4264000
+Toyota,Camry,2003,Nigerian Used,216041,2808000
+Honda,Accord,2005,Nigerian Used,244610,1768000
+Honda,Accord,2008,Nigerian Used,50808,2912000
+Peugeot,406,2008,Nigerian Used,188246,3150000
+Lexus,ES 330,2003,Nigerian Used,148130,2992500
+GMC,Acadia,2011,Nigerian Used,312076,5250000
+Honda,Crosstour,2012,Foreign Used,122048,8320000
+Mazda,CX-9,2008,Nigerian Used,73666,3591000
+Jeep,Liberty,2006,Foreign Used,249553,5250000
+Nissan,Pathfinder,2005,Nigerian Used,120198,2912000
+Ford,Fusion,2012,Foreign Used,242294,2625000
+Lexus,GS 350,2007,Nigerian Used,310961,5096000
+Mercedes-Benz,GL 450,2010,Nigerian Used,213923,4235000
+Toyota,RAV4,2006,Foreign Used,338864,7072000
+Toyota,Avensis,2007,Nigerian Used,147792,1470000
+Toyota,Corolla,2017,Foreign Used,250274,12500000
+Nissan,Xterra,2004,Nigerian Used,320218,1335600
+Mitsubishi,Outlander,2005,Nigerian Used,144934,2100000
+Lexus,RX 330,2005,Nigerian Used,307731,4305000
+Toyota,Sienna,2009,Nigerian Used,130645,4160000
+Opel,Zafira,2000,Nigerian Used,252410,2835000
+Toyota,Corolla,2004,Nigerian Used,358184,3016000
+Land Rover,LR3,2007,Nigerian Used,145636,4200000
+Volkswagen,Jetta,2010,Foreign Used,92455,4725000
+Honda,Pilot,2005,Nigerian Used,215316,1575000
+Lexus,ES 350,2012,Foreign Used,225726,7770000
+Volkswagen,Sharan,2000,Nigerian Used,245635,2415000
+Toyota,Tacoma,2002,Nigerian Used,359832,4200000
+Honda,Accord,2002,Nigerian Used,449001,945000
+Toyota,Sienna,2000,Nigerian Used,144501,1872000
+Nissan,Micra,2002,Nigerian Used,154677,1050000
+Opel,Meriva,2004,Nigerian Used,273512,2415000
+Chrysler,Pacifica,2008,Nigerian Used,204693,2835000
+Honda,Pilot,2007,Nigerian Used,347979,2100000
+Volkswagen,Comfort Coupe,2012,Nigerian Used,136003,5565000
+Toyota,Camry,2008,Nigerian Used,133577,3990000
+Lexus,RX 400h,2006,Foreign Used,239270,7350000
+Nissan,Frontier,2003,Nigerian Used,115589,2520000
+Ford,Edge,2012,Nigerian Used,291306,5512000
+Land Rover,Range Rover Evoque,2013,Nigerian Used,79448,8190000
+Toyota,Camry,2004,Nigerian Used,144822,2704000
+Toyota,Highlander,2015,Foreign Used,106243,20800000
+Honda,HR-V,2021,Nigerian Used,51077,14700000
+Mercedes-Benz,GL 550,2008,Nigerian Used,135290,4515000
+Mercedes-Benz,ML 350 4MATIC,2010,Nigerian Used,176472,4725000
+Land Rover,LR4,2012,Nigerian Used,135742,5775000
+Toyota,Sienna,2004,Foreign Used,380308,2415000
+Infiniti,JX35,2013,Nigerian Used,98131,4725000
+Land Rover,Range Rover Sport,2010,Nigerian Used,260046,7176000
+Foton,Sup,2014,Nigerian Used,89932,3150000
+Mercedes-Benz,GL 450,2010,Nigerian Used,187190,8320000
+Honda,Accord,2009,Nigerian Used,237086,3328000
+Mercedes-Benz,E 350,2013,Foreign Used,214578,13104000
+Saturn,Vue,2008,Nigerian Used,156800,3150000
+Mercedes-Benz,C 300,2008,Nigerian Used,149705,5720000
+Mercedes-Benz,GL 550 4MATIC,2009,Nigerian Used,142308,7280000
+Honda,CR-V,2007,Nigerian Used,147528,4160000
+Mercedes-Benz,GL 450 4MATIC,2008,Nigerian Used,168371,7488000
+Nissan,Quest,2004,Foreign Used,174329,3780000
+Toyota,Camry,2009,Foreign Used,387125,6760000
+Nissan,Micra,2005,Nigerian Used,207680,1890000
+Infiniti,QX60,2015,Nigerian Used,216412,22050000
+Mercedes-Benz,GLE 350,2020,Foreign Used,74028,80080000
+Toyota,Yaris,2003,Foreign Used,154898,3675000
+Nissan,Qashqai,2023,Nigerian Used,235,36750000
+Lexus,ES 330,2005,Nigerian Used,274506,3744000
+Toyota,Camry,2006,Nigerian Used,145028,2625000
+Chevrolet,Nubira,2006,Foreign Used,353798,2835000
+Lexus,IS 350,2006,Nigerian Used,220412,4680000
+Toyota,Camry,2020,Foreign Used,18071,26000000
+Mercedes-Benz,C 240,2001,Nigerian Used,116827,1890000
+Nissan,Pathfinder,2011,Nigerian Used,97801,5775000
+Toyota,Sienna,2002,Nigerian Used,253988,2912000
+Hyundai,Ix35,2013,Nigerian Used,185795,4725000
+Toyota,Camry,2006,Nigerian Used,233502,3120000
+Ford,Explorer,2014,Nigerian Used,244446,7280000
+Ford,Edge,2009,Foreign Used,188026,5310375
+Mercedes-Benz,E 350,2003,Nigerian Used,252512,2310000
+Nissan,Altima,2008,Nigerian Used,230208,1942500
+Lexus,ES 350,2007,Nigerian Used,145262,5720000
+Lexus,RX 330,2005,Nigerian Used,187013,4410000
+Lexus,RX 330,2006,Nigerian Used,227666,4725000
+Honda,Accord,2006,Nigerian Used,108877,2808000
+Mercedes-Benz,C 350,2008,Nigerian Used,42626,6240000
+Mercedes-Benz,E 250,2008,Nigerian Used,35446,2940000
+Opel,Zafira,2012,Nigerian Used,208788,1890000
+GMC,Acadia,2007,Nigerian Used,93864,6300000
+Toyota,Camry,2002,Nigerian Used,101605,3432000
+Acura,RDX,2010,Foreign Used,269577,7140000
+Toyota,Camry,2003,Nigerian Used,32164,2310000
+Toyota,Highlander,2008,Nigerian Used,166716,7072000
+Toyota,Sienna,2006,Nigerian Used,110339,4680000
+Ford,Escape,2010,Nigerian Used,277578,3675000
+Kia,Rio,2020,Nigerian Used,35269,10500000
+Toyota,4-Runner,2011,Foreign Used,122089,19760000
+Mercedes-Benz,GL 450 4MATIC,2014,Foreign Used,225341,18270000
+Acura,MDX,2005,Nigerian Used,262481,1806000
+Toyota,4-Runner,2003,Nigerian Used,228034,2394000
+Toyota,Tundra,2014,Nigerian Used,106300,13650000
+Honda,CR-V,2015,Nigerian Used,88852,8925000
+Nissan,Micra,2002,Nigerian Used,80300,1260000
+Toyota,Sienna,2010,Foreign Used,200520,9048000
+Mercedes-Benz,GLA 250,2015,Foreign Used,217866,17850000
+Toyota,Avalon,2006,Nigerian Used,397640,4056000
+Ford,Taurus,2015,Foreign Used,232102,9450000
+Toyota,Corolla,2008,Nigerian Used,177394,2835000
+Toyota,Prius HSD Hybrid,2005,Nigerian Used,210821,2310000
+Acura,TSX,2004,Nigerian Used,289807,1732500
+Honda,Pilot,2011,Foreign Used,132795,8164000
+Acura,TSX,2010,Nigerian Used,4981,4680000
+Toyota,Sienna CE,2007,Nigerian Used,293894,4888000
+Toyota,Land Cruiser Prado,2007,Nigerian Used,94441,7665000
+Toyota,Highlander,2005,Nigerian Used,166649,3045000
+Toyota,Sienna LE,2001,Nigerian Used,402019,1522500
+Honda,Odyssey,2001,Nigerian Used,316697,2100000
+Toyota,Hiace,2000,Nigerian Used,421092,3150000
+Toyota,Camry,2001,Nigerian Used,246157,1365000
+Toyota,Camry,2002,Nigerian Used,235109,1302000
+Peugeot,307,2005,Nigerian Used,330590,1338750
+Buick,Enclave,2011,Nigerian Used,134912,5250000
+Honda,CR-V,2008,Nigerian Used,102974,4264000
+Kia,Sedona,2016,Foreign Used,80103,7350000
+Kia,Optima,2009,Nigerian Used,121249,1680000
+Ford,Edge,2008,Nigerian Used,198134,3432000
+Nissan,Primera,2000,Nigerian Used,215604,1260000
+Pontiac,Vibe,2009,Foreign Used,182373,5512000
+Honda,Accord,2008,Nigerian Used,146484,2268000
+Toyota,Avensis,2005,Foreign Used,295375,5250000
+Land Rover,LR3,2006,Nigerian Used,269759,3150000
+Peugeot,RC,2014,Foreign Used,59321,5984998
+Honda,CR-V,2000,Nigerian Used,129221,1470000
+Toyota,Camry,2021,Foreign Used,38691,31200000
+Lexus,GX 470,2004,Nigerian Used,186195,4641000
+Toyota,Corolla,2004,Nigerian Used,135952,2625000
+Mercedes-Benz,C 300,2008,Nigerian Used,198125,7800000
+Ford,Edge,2008,Nigerian Used,354618,3120000
+Honda,Crosstour,2013,Foreign Used,200219,9345000
+Infiniti,FX35,2007,Nigerian Used,195079,3045000
+Mercedes-Benz,ML 350,2006,Nigerian Used,303563,3727500
+Toyota,Corolla,2012,Foreign Used,127742,7696000
+Toyota,Corolla,2005,Nigerian Used,155800,3016000
+Toyota,Camry,2011,Nigerian Used,251241,4200000
+Ford,Fusion,2006,Nigerian Used,110373,2415000
+Honda,Pilot,2006,Nigerian Used,127491,3120000
+Toyota,Fortuner,2017,Nigerian Used,89852,34650000
+Honda,Pilot,2009,Nigerian Used,246542,4160000
+BMW,328i,2010,Foreign Used,463333,3150000
+Ford,Focus,2018,Foreign Used,89878,5670000
+Toyota,Corolla,2010,Foreign Used,363400,6300000
+Toyota,Highlander,2003,Nigerian Used,98777,3045000
+Honda,Civic,2012,Foreign Used,370320,7800000
+Mitsubishi,Outlander,2004,Nigerian Used,174671,1995000
+Toyota,Camry,2010,Nigerian Used,308935,5200000
+Lexus,GX 460,2014,Foreign Used,152361,31720000
+Nissan,X-Trail,2005,Nigerian Used,419350,1260000
+Acura,TL,2005,Nigerian Used,318414,2310000
+Toyota,Corolla,2009,Nigerian Used,89831,4095000
+Honda,Accord,2003,Nigerian Used,360225,1155000
+Toyota,Camry,2009,Nigerian Used,202217,2730000
+Toyota,Camry,2005,Nigerian Used,184939,1942500
+Mercedes-Benz,ML 350 4MATIC,2010,Nigerian Used,178565,8112000
+Toyota,Highlander,2009,Foreign Used,119512,7035000
+Ford,Edge,2008,Nigerian Used,136635,4160000
+Honda,Civic,2010,Nigerian Used,229634,3016000
+Honda,Accord,2006,Nigerian Used,457443,2100000
+Toyota,Sienna XLE,2001,Nigerian Used,465401,3224000
+Toyota,RAV4,2017,Foreign Used,187117,17160000
+Chevrolet,Impala,2010,Nigerian Used,103526,1890000
+Toyota,RAV4,2001,Nigerian Used,352244,2496000
+Toyota,Avalon,2008,Nigerian Used,148145,1680000
+Toyota,Sienna LE,2011,Foreign Used,100969,8925000
+Nissan,Quest,2007,Nigerian Used,165742,2940000
+Porsche,Macan,2020,Nigerian Used,50874,105000000
+Ford,Focus,2017,Foreign Used,213535,8400000
+Nissan,Titan,2007,Foreign Used,363171,5460000
+Toyota,4-Runner,2005,Nigerian Used,54023,2520000
+Lexus,RX 300,2001,Nigerian Used,319350,2002350
+Honda,Crosstour,2010,Foreign Used,169469,7350000
+Toyota,4-Runner,2011,Foreign Used,56919,20800000
+Honda,Pilot,2010,Nigerian Used,119078,5408000
+Toyota,Corolla,2006,Nigerian Used,238593,2205000
+Mazda,CX-9,2008,Nigerian Used,68009,4160000
+Toyota,Matrix,2006,Nigerian Used,283658,2310000
+Toyota,Sienna XLE,2004,Nigerian Used,284281,2625000
+Volkswagen,Jetta,2013,Foreign Used,225511,7350000
+BMW,X5,2010,Nigerian Used,109213,3675000
+Toyota,RAV4,2007,Nigerian Used,238280,3770812
+Mercedes-Benz,E 350,2011,Nigerian Used,150172,11960000
+Toyota,Corolla,2010,Nigerian Used,178567,5200000
+Mazda,6,2007,Foreign Used,207710,3150000
+Ford,Explorer,2012,Nigerian Used,253981,5775000
+Toyota,Sienna,2007,Nigerian Used,118985,3255000
+Honda,Accord,2009,Nigerian Used,186144,2730000
+BMW,328i,2007,Nigerian Used,261918,2730000
+BMW,5 Series,2010,Foreign Used,140925,5565000
+Mercedes-Benz,E 200,2004,Nigerian Used,86309,2730000
+Toyota,Camry,2002,Nigerian Used,2804,2184000
+Toyota,Highlander,2009,Nigerian Used,124549,5250000
+Mercedes-Benz,E 550,2007,Nigerian Used,133839,3150000
+Honda,Accord,2011,Nigerian Used,73339,2520000
+Mercedes-Benz,ML 350,2006,Nigerian Used,191297,7488000
+Toyota,Corolla,2020,Foreign Used,1605,31200000
+Nissan,Versa,2008,Nigerian Used,162541,2625000
+Toyota,Venza,2012,Foreign Used,300314,14040000
+Toyota,Highlander Limited,2009,Nigerian Used,208852,5670000
+Toyota,Avalon,2006,Foreign Used,224282,5720000
+Peugeot,406,2008,Nigerian Used,409383,2887500
+Nissan,Maxima,2011,Nigerian Used,326649,3780000
+Honda,Pilot,2003,Nigerian Used,201282,2080000
+Ford,Edge,2009,Foreign Used,286359,5565000
+Toyota,Camry,2002,Nigerian Used,172825,3120000
+Toyota,Avensis,2005,Nigerian Used,209103,2808000
+Acura,MDX,2007,Nigerian Used,305349,4992000
+Toyota,Avensis,2002,Nigerian Used,187251,3465000
+Mercedes-Benz,E 400,2016,Nigerian Used,101794,11550000
+Mercedes-Benz,GL 450,2014,Nigerian Used,211890,17850000
+Toyota,Yaris,2001,Foreign Used,134531,3150000
+Toyota,Highlander,2012,Foreign Used,111861,14560000
+Mercedes-Benz,ML 320,2002,Nigerian Used,121107,3328000
+Lexus,GS 300,2006,Nigerian Used,197148,3675000
+BMW,X5,2004,Nigerian Used,259467,2100000
+Ford,Edge,2008,Nigerian Used,379329,3120000
+Toyota,Camry,2003,Nigerian Used,293704,2415000
+Lexus,ES 350,2010,Foreign Used,191474,9880000
+Subaru,Tribeca,2008,Nigerian Used,259322,3465000
+BMW,X5,2002,Nigerian Used,245584,2415000
+Mercedes-Benz,C 250,2013,Foreign Used,162853,7854000
+Jeep,Compass,2007,Nigerian Used,229409,2520000
+Acura,MDX,2001,Nigerian Used,213223,2392000
+Nissan,Micra,2002,Foreign Used,250315,2205000
+Mercedes-Benz,G 500,2014,Nigerian Used,27292,78000000
+Toyota,Camry,2020,Foreign Used,140910,21404250
+Honda,Accord,2001,Nigerian Used,584031,1248000
+Toyota,Tundra,2013,Foreign Used,28174,17680000
+Toyota,Corolla,2011,Nigerian Used,260074,5720000
+Toyota,Avensis,2013,Foreign Used,233280,5985000
+Mitsubishi,Carisma,2003,Nigerian Used,127494,1522500
+Lexus,RX 350,2016,Foreign Used,1221,36400000
+Toyota,Camry,2003,Nigerian Used,510261,2392000
+Hyundai,Sonata,2006,Nigerian Used,511227,2310000
+Nissan,Rogue,2010,Foreign Used,383120,6240000
+Honda,Crosstour,2011,Foreign Used,142231,9660000
+Toyota,Sienna XLE,2000,Nigerian Used,298658,1680000
+Opel,Zafira,2001,Nigerian Used,282732,1680000
+Honda,Accord,2003,Nigerian Used,334361,1560000
+Toyota,Avensis,2006,Nigerian Used,128122,2625000
+Toyota,Highlander,2002,Nigerian Used,133778,4576000
+Honda,Accord,2011,Nigerian Used,289987,2625000
+Toyota,Corolla,2004,Nigerian Used,306043,2808000
+Toyota,Highlander Limited,2009,Foreign Used,62568,10920000
+Mazda,5,2013,Foreign Used,96521,4515000
+Toyota,Highlander Limited,2005,Nigerian Used,214385,4732000
+Mercedes-Benz,C 230,2006,Nigerian Used,474382,2310000
+Hyundai,Genesis,2010,Nigerian Used,178921,7875000
+Mercedes-Benz,E 350,2007,Nigerian Used,400479,3120000
+Nissan,Altima,2005,Nigerian Used,285115,1560000
+Toyota,Matrix,2005,Nigerian Used,232747,3120000
+Toyota,Sequoia,2010,Nigerian Used,189066,21000000
+Mazda,6,2005,Nigerian Used,374862,1365000
+Mercedes-Benz,C 350,2011,Nigerian Used,85720,6300000
+Ford,F-150,2005,Nigerian Used,870591,4725000
+Honda,Accord,2005,Nigerian Used,94896,1716000
+Toyota,Camry,2016,Nigerian Used,51564,9880000
+Toyota,4-Runner,2003,Nigerian Used,315940,4420000
+Ford,F-150,2007,Nigerian Used,179290,7350000
+Toyota,Corolla,2007,Nigerian Used,185818,3150000
+Toyota,Camry,2009,Nigerian Used,128908,4515000
+Toyota,Camry,2015,Foreign Used,161668,12480000
+Kia,Optima,2013,Nigerian Used,112078,5775000
+Toyota,Corolla,2005,Nigerian Used,273185,3640000
+Mazda,CX-9,2008,Nigerian Used,148214,4056000
+Honda,Accord,2022,Foreign Used,22646,16800000
+Land Rover,Range Rover Evoque,2013,Foreign Used,140920,15600000
+Honda,Pilot,2011,Foreign Used,111960,8944000
+Peugeot,307,2005,Nigerian Used,410363,2600000
+Nissan,Altima,2009,Nigerian Used,212205,2288000
+Toyota,Sienna,2003,Nigerian Used,240172,2600000
+Dodge,Journey,2012,Nigerian Used,314759,2835000
+Toyota,Camry,2004,Nigerian Used,238872,3120000
+Toyota,Camry,2016,Foreign Used,62748,15080000
+Toyota,Camry,2009,Nigerian Used,218539,3675000
+Mercedes-Benz,GL 450,2008,Foreign Used,158190,10400000
+Lexus,RX 350,2021,Foreign Used,15299,39900000
+Kia,Sedona,2003,Nigerian Used,257990,1785000
+Hyundai,Tucson,2005,Nigerian Used,200768,2310000
+Lexus,IS 250,2008,Foreign Used,160478,4410000
+Ford,Maverick,2003,Foreign Used,144887,3465000
+Honda,Pilot,2007,Nigerian Used,158540,7280000
+Toyota,Camry,2013,Nigerian Used,180155,6229589
+Mercedes-Benz,C 200,2003,Foreign Used,395665,3675000
+Hyundai,Sonata,2000,Nigerian Used,235332,1312500
+Volkswagen,Polo,2015,Nigerian Used,116299,1785000
+Volkswagen,Bora,2004,Nigerian Used,223908,1995000
+Toyota,Tacoma,2009,Nigerian Used,42126,4882500
+Ford,Explorer,2005,Foreign Used,319922,4680000
+Ford,Explorer,2006,Nigerian Used,286155,3640000
+Volkswagen,Golf,2012,Nigerian Used,210002,3150000
+Nissan,Xterra,2002,Nigerian Used,288589,1664000
+Hyundai,Tucson,2013,Nigerian Used,105121,5460000
+Chevrolet,Cruze,2010,Nigerian Used,120982,3150000
+Mazda,626,2003,Nigerian Used,177804,1050000
+BMW,X5,2007,Foreign Used,120700,7245000
+Mercedes-Benz,S 550,2014,Nigerian Used,145893,31200000
+Toyota,Avensis,2007,Nigerian Used,167858,5250000
+Lexus,LS 460,2007,Nigerian Used,111506,6300000
+Hyundai,Sonata,2015,Foreign Used,116161,9880000
+BMW,3 Series,2001,Nigerian Used,224267,1837500
+Toyota,Sienna,2005,Nigerian Used,78142,4680000
+Lexus,GS 350,2007,Foreign Used,120510,8840000
+Toyota,Hilux,2007,Foreign Used,289917,13650000
+Lexus,LX 570,2008,Nigerian Used,146459,47250000
+Lexus,RX 330,2004,Nigerian Used,282765,5200000
+Toyota,Corolla,2016,Nigerian Used,305454,8216000
+Dodge,Journey,2013,Nigerian Used,84641,6405000
+BMW,X5,2008,Nigerian Used,235888,6240000
+Peugeot,307,2008,Nigerian Used,758093,1361062
+Toyota,Tundra,2002,Nigerian Used,271287,4200000
+Toyota,Highlander,2017,Nigerian Used,58167,21840000
+Toyota,Camry,2007,Nigerian Used,233698,3640000
+Toyota,Camry,2003,Nigerian Used,412180,2600000
+Toyota,Camry,2015,Foreign Used,328178,13520000
+Honda,Accord,2008,Nigerian Used,189427,3328000
+Nissan,Tiida,2007,Nigerian Used,246144,1995000
+Toyota,Tundra,2008,Nigerian Used,137286,10920000
+Lexus,RX 300,2003,Nigerian Used,222914,2205000
+Toyota,Corolla,2007,Nigerian Used,118580,4160000
+Mercedes-Benz,ML 320,2008,Nigerian Used,97176,4680000
+Mazda,CX-9,2009,Nigerian Used,110023,4472000
+Land Rover,Range Rover Sport,2006,Nigerian Used,130740,4160000
+Lexus,GX 470,2005,Nigerian Used,305560,6240000
+Toyota,Avalon,2008,Nigerian Used,186291,3224000
+Mercedes-Benz,MB100,2014,Nigerian Used,140290,5250000
+Jeep,Liberty,2006,Nigerian Used,112099,1890000
+Toyota,Avalon,2008,Nigerian Used,115661,3588000
+Toyota,Sienna,2007,Foreign Used,145384,6032000
+Toyota,Venza,2011,Foreign Used,328699,11960000
+BMW,X6,2013,Nigerian Used,191246,13125000
+Toyota,Camry,2003,Nigerian Used,208901,2300000
+Toyota,Camry,2007,Foreign Used,244077,5565000
+Ford,Explorer,2013,Foreign Used,196450,11500000
+Toyota,Camry,2005,Nigerian Used,272604,2415000
+Infiniti,QX56,2012,Nigerian Used,104246,8925000
+Lexus,GS 350,2006,Nigerian Used,237396,5200000
+Porsche,Cayenne,2004,Nigerian Used,999992,2625000
+Toyota,Sienna LE,2010,Nigerian Used,385902,3675000
+Mercedes-Benz,GL 450,2014,Foreign Used,235969,22050000
+Acura,MDX,2005,Nigerian Used,308098,2912000
+Ford,Explorer,2017,Nigerian Used,99830,13650000
+Ford,F-150,2010,Foreign Used,294924,11475000
+Kia,Carnival,2007,Nigerian Used,303773,3150000
+Toyota,Camry,2008,Nigerian Used,151596,2625000
+Mercedes-Benz,GL 450 4MATIC,2011,Nigerian Used,111306,5250000
