@@ -16,14 +16,14 @@ model_feature_names = model.get_booster().feature_names
 
 # Title and Page Configuration
 st.set_page_config(
-    page_title="CarPricePredictionApp",
+    page_title="Car Price Prediction",
     page_icon="🚗",
     layout="wide"
 )
 
 st.markdown("<h1 style='text-align: center;'> Used Car Price Prediction </h1>", unsafe_allow_html=True)
-image = Image.open('care.jpg')
-st.image(image)
+image = Image.open('cars.jpg')
+st.image(image, use_column_width=True)
 
 
 st.markdown("<h2 style=>Contact the Developer</h2>", unsafe_allow_html=True)
